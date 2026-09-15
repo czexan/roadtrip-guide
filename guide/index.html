@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>High Country to Red Rock · A Field Guide</title>
+<style>
+:root{--ink:#2b2420;--paper:#faf6ef;--accent:#b4552d;--sage:#5c6b52;--line:#d9cfc0;--soft:#8a7f70}
+*{box-sizing:border-box;margin:0}
+body{font-family:Georgia,'Times New Roman',serif;background:var(--paper);color:var(--ink);line-height:1.6}
+.wrap{max-width:900px;margin:0 auto;padding:0 20px}
+header.hero{text-align:center;padding:30px 20px 24px;border-bottom:3px double var(--line)}
+.hero .kicker{font-family:Verdana,sans-serif;font-size:11px;letter-spacing:.25em;text-transform:uppercase;color:var(--accent)}
+.hero h1{font-size:clamp(28px,6vw,44px);font-weight:normal;margin:10px 0 6px;font-style:italic}
+.hero p{color:var(--soft);max-width:52ch;margin:0 auto;font-size:15px}
+.route-note{background:#f1ebe0;border:1px solid var(--line);border-radius:6px;padding:14px 18px;margin:28px auto;font-size:14px;max-width:640px}
+.route-note b{color:var(--sage)}
+section.loc{padding:44px 0 8px;border-bottom:1px solid var(--line)}
+.loc .region{font-family:Verdana,sans-serif;font-size:10px;letter-spacing:.22em;text-transform:uppercase;color:var(--sage)}
+.loc h2{font-size:clamp(24px,5vw,32px);font-weight:normal;margin:4px 0 2px}
+.loc .cat{font-style:italic;color:var(--accent);font-size:15px}
+.loc .lede{margin:12px 0 18px;font-size:16px;max-width:60ch}
+.photos{display:flex;gap:10px;margin:0 0 18px;overflow-x:auto}
+.photos figure{flex:1 1 0;min-width:160px}
+.photos img{width:100%;height:170px;object-fit:cover;border-radius:4px;display:block}
+.noimg{width:100%;height:170px;border:1px dashed var(--line);border-radius:4px;display:flex;flex-direction:column;align-items:center;justify-content:center;color:var(--soft);font-size:12px;background:#f4efe6;gap:6px}
+.noimg svg{opacity:.5}
+figcaption{font-size:12px;color:var(--soft);margin-top:5px;font-style:italic}
+.tabs{display:flex;gap:6px;margin:6px 0 0;flex-wrap:wrap}
+.tabs button{font-family:Verdana,sans-serif;font-size:12px;letter-spacing:.08em;text-transform:uppercase;background:none;border:1px solid var(--line);border-radius:20px;padding:7px 16px;cursor:pointer;color:var(--soft)}
+.tabs button.on{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.pane{display:none;padding:16px 0 8px}
+.pane.on{display:block}
+.item{border-left:3px solid var(--line);padding:10px 14px;margin:10px 0;background:#fdfaf4}
+.item h4{font-size:16px;font-weight:normal}
+.item .meta{font-size:12.5px;color:var(--soft);font-family:Verdana,sans-serif;margin:3px 0}
+.item .meta a{color:var(--accent)}
+.item p{font-size:14px;margin-top:4px}
+.pc{display:flex;gap:14px;font-size:13px;margin-top:6px;flex-wrap:wrap}
+.pc span{color:var(--sage)}.pc em{color:#96502f;font-style:normal}
+.pick{float:right;font-family:Verdana,sans-serif;font-size:11px;border:1px solid var(--sage);color:var(--sage);background:none;border-radius:4px;padding:4px 10px;cursor:pointer;margin-left:10px}
+.pick.sel{background:var(--sage);color:#fff}
+.shelf{position:sticky;bottom:0;background:var(--ink);color:var(--paper);font-family:Verdana,sans-serif;font-size:12px;padding:10px 20px;display:none;z-index:5}
+.shelf.show{display:block}
+.branch{background:#efe9db;margin:36px 0;padding:26px 22px;border-radius:8px}
+.branch h3{font-weight:normal;font-size:22px;font-style:italic;margin-bottom:8px}
+.cols{display:flex;gap:18px;margin-top:14px}
+.cols>div{flex:1;background:var(--paper);border:1px solid var(--line);border-radius:6px;padding:16px}
+.cols h4{font-size:16px;color:var(--accent);font-weight:normal}
+.cols ul{padding-left:18px;font-size:13.5px;margin-top:8px}
+.mapbox{margin:40px 0}
+.mapbox h3{font-weight:normal;font-style:italic;font-size:20px;margin-bottom:10px}
+details.design{margin:40px 0 60px;font-size:13.5px;color:var(--soft)}
+details.design summary{cursor:pointer;font-family:Verdana,sans-serif;font-size:12px;letter-spacing:.1em;text-transform:uppercase}
+@media(max-width:480px){.photos{flex-direction:column}.photos figure{min-width:0}.cols{flex-direction:column}.pick{float:none;display:inline-block;margin:6px 0 0}}
+.route-buttons{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0}.route-buttons button{font:13px Verdana,sans-serif;min-height:44px;padding:9px 14px;border:1px solid #5c6b52;background:#fff;color:#2b2420;border-radius:5px;cursor:pointer}.route-buttons button[aria-pressed="true"]{background:#2b2420;color:#fff}.cols p{font-size:14px;margin-top:8px}[hidden]{display:none!important}@media(max-width:700px){.cols{flex-direction:column}}
+.optional-stop{margin:28px 0;padding:16px 20px;background:#f1ebe0;border:1px solid var(--line);border-radius:6px}.optional-stop>summary{font-size:17px;cursor:pointer}.optional-stop h3{font-size:23px;font-weight:normal}
+@media(min-width:900px){#overview-map{height:690px!important}#colorado-map,#desert-map{height:580px!important}}
+.date-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;margin:16px 0}.date-row{background:#fffaf2;padding:10px 12px;border-left:3px solid #5c6b52}.date-row b{display:block}.visit-date{display:inline-block;font:12px Verdana,sans-serif;color:#315546;background:#e8edde;padding:6px 9px;margin:8px 0}@media(max-width:600px){.date-list{grid-template-columns:1fr}}
+</style>
+<link rel="stylesheet" href="discovery.css">
+</head>
+<body>
+
+<header class="hero">
+  <div class="kicker">Denver → Las Vegas · 19 Sep – 3 Oct 2026</div>
+  <h1>High Country to Red Rock</h1>
+  <p>Mountain towns, short hikes, big views, good food and beer. Two weeks from Colorado to the desert, with room to change plans.</p>
+</header>
+
+<div class="wrap">
+
+<div class="mapbox" style="margin:24px 0"><h3>The route at a glance</h3><p>Denver airport → Breckenridge/Frisco area → Colorado options → Moab → two desert routes → Zion → Las Vegas.</p><iframe id="overview-map" title="Trip overview and route alternatives" src="terrain.html?scope=overview" style="width:100%;height:460px;border:0"></iframe></div>
+<div class="route-note"><b>A flexible shortlist.</b> Start around Breckenridge, Frisco, Silverthorne and Dillon Reservoir. Camp when the weather suits; use a hostel or a good lodging deal otherwise. Las Vegas is the final night, October 2–3. Short hikes, sightseeing and food are the default; longer hikes and rides stay optional.</div>
+<section class="branch" id="tentative-dates"><h3>Tentative dates · September 19–October 3</h3><p>A working schedule for checking reservations, not a locked itinerary. Nights below mean the dates spent sleeping at each stop; checkout is the next morning.</p><div id="date-list" class="date-list"></div><details><summary>Reservations to check first</summary><div class="item"><h4>Difficult Campground, Aspen</h4><p id="aspen-booking"></p><p>If Aspen is selected and a campsite matters, check now. Live availability and the operating calendar have not been checked. <a href="https://www.recreation.gov/camping/campgrounds/231880" target="_blank" rel="noopener">Check campground ↗</a></p><p>Maroon Bells parking or shuttle access is a separate reservation; aim for September 21, or September 20 afternoon if continuing to Crested Butte the next day.</p></div><div class="item"><h4>Telluride Town Park Campground</h4><p><b>Check in September 22; check out September 24. Two nights: September 22 and 23.</b></p><p>Worth checking now if staying in town is a priority. The 2026 season runs through October 4 and this booking window is already open. Availability has not been checked. <a href="https://www.telluride.gov/181/Campground" target="_blank" rel="noopener">Official booking details ↗</a></p><p><a href="https://www.recreation.gov/camping/campgrounds/233902" target="_blank" rel="noopener">Matterhorn Campground</a> is the alternative for the same dates; check its seasonal calendar and available sites.</p></div><div class="item"><h4>Antelope Canyon guided tour</h4><p id="antelope-booking"></p><p>Reserve a specific guided-tour slot after choosing the southern route. Follow the operator’s stated local time and check-in instructions. <a href="https://navajonationparks.org/guided-tour-operators/antelope-canyon-tour-operators./" target="_blank" rel="noopener">Authorized tour operators ↗</a></p></div><p>Peak One Campground stays an arrival decision. No need to investigate availability for this plan.</p></details><p style="font-size:13px;margin-top:12px"><b>Event tradeoff:</b> this schedule leaves Colorado before the September 25 Gunnison Hoedown and September 26 Delta derby. Choosing either as an anchor means revising these dates before booking. Weather and longer stops can also move the middle of the trip.</p><p style="font-size:12px">Reservation policies checked September 15, 2026. No availability or booking is confirmed.</p></section>
+<!-- FRISCO -->
+<section class="loc" data-loc="Breckenridge/Frisco area">
+  <div class="region">First stop · Summit County</div>
+  <h2>Breckenridge/Frisco area</h2>
+  <div class="cat">Breckenridge · Frisco · Silverthorne · Dillon Reservoir</div>
+  <p class="lede">Head straight here from the airport. Choose a town walk and dinner in Breckenridge or Frisco, or a lakeside camp at Dillon Reservoir. The first night can move farther west if arrival, weather and energy line up.</p>
+  <div class="photos">
+    <figure><img src="../assets/frisco.jpg" alt="Frisco Main Street"><figcaption>Main Street, Frisco</figcaption></figure>
+    <figure><div class="noimg"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 15l5-5 4 4 3-3 6 6"/></svg>Peak One Campground · photo not yet on file</div></figure>
+  </div>
+  <div class="tabs" role="tablist"></div>
+  <div class="pane" data-tab="Stay">
+    <div class="item"><button class="pick">Add to trip</button><h4>Peak One Campground</h4><div class="meta">Campground · Frisco Peninsula · good-weather option</div><p>A practical tent stop on the Frisco Peninsula, with recreation paths toward town and around the reservoir.</p><div class="pc"><span>+ Reservoir setting and access to Frisco</span><em>− Outdoor night; choose the hostel if the weather is poor</em></div></div>
+    <div class="item"><button class="pick">Add to trip</button><h4>The Bivvi Hostel, Breckenridge</h4><div class="meta">First indoor choice · <a href="https://www.thebivvi.com/rooms/all" target="_blank" rel="noopener">Rooms and bunks ↗</a></div><p>A hostel base for Breckenridge, with shared and private room options. Check the price for two before choosing.</p><div class="pc"><span>+ Hostel atmosphere and town access</span><em>− Price and availability still to check</em></div></div>
+<div class="item"><h4>Other first-night options</h4><p>A good deal at Copper Mountain could work. If it is still early and everyone feels good, continue toward Leadville or Twin Lakes instead of making Summit County mandatory.</p></div>
+  </div>
+  <div class="pane" data-tab="Eat">
+    <div class="item"><button class="pick">Add to trip</button><h4>Main Street casual dining</h4><div class="meta"><a href="https://www.google.com/maps/search/restaurants+Main+Street+Frisco+CO" target="_blank" rel="noopener">Open in Google Maps</a> · Rating not checked</div><p>A short strip of pubs, pizza, and breakfast spots; walk it and choose by the crowd on the patio.</p></div>
+  </div>
+  <div class="pane" data-tab="Do">
+    <div class="item"><button class="pick">Add to trip</button><h4>Dillon Reservoir rec path</h4><div class="meta">Easy · walk or rent bikes</div><p>Flat lakeside miles with Tenmile Range backdrops · a gentle first day at altitude.</p></div>
+    <div class="item"><button class="pick">Add to trip</button><h4>Mount Royal trail</h4><div class="meta">Moderate · 2–3 h from town</div><p>Steep but short, straight from Main Street to a view over the whole valley.</p></div>
+  </div>
+  <div class="pane" data-tab="Events">
+    <div class="item"><h4>Late-September events</h4><div class="meta">Attendance not published · check townoffrisco.com near the dates</div><p>Fall weekends often bring small markets on Main Street; nothing confirmed for these dates yet.</p></div>
+  </div>
+</section>
+
+<section class="loc" data-loc="Leadville / Twin Lakes"><div class="region">Optional stop en route</div><h2>Leadville / Twin Lakes</h2><figure class="photos"><img src="../assets/leadville.jpg" alt="Leadville town and surrounding mountains" style="width:100%;height:210px;object-fit:cover"><figcaption>Leadville town and surrounding mountains</figcaption></figure><div class="cat">Historic mining town · lakeside camping option</div><p class="lede">Leadville adds old mining-town streets and a saloon stop: a useful contrast to the resort side of Aspen and Telluride. Stop for a look and a beer, then keep moving. Twin Lakes camping makes sense if it is getting late, not as a compulsory overnight.</p><div class="tabs"></div><div class="pane" data-tab="Do"><div class="item"><h4>Leadville town walk</h4><p>A short look around the historic center before continuing toward Aspen or the Gunnison Valley.</p></div></div><div class="pane" data-tab="Eat"><div class="item"><button class="pick">Add to trip</button><h4>Silver Dollar Saloon, Leadville</h4><p>Historic saloon option for a drink and a look inside.</p><a href="https://www.legendarysilverdollarsaloon.com/" target="_blank" rel="noopener">Venue details ↗</a></div></div><div class="pane" data-tab="Stay"><div class="item"><h4>Keep going, unless it is late</h4><p>Leadville lodging or Twin Lakes camping can be a first-night extension or a later stop. Otherwise continue to the selected Colorado destination.</p></div></div></section>
+<section class="branch" id="colorado-fork"><h3>Colorado: Aspen, Crested Butte, or both?</h3><p>These are alternatives, not two compulsory stops. Leadville and Crested Butte offer a useful contrast to Aspen and Telluride: more time for a town wander, a casual meal and a beer, alongside the mountain scenery.</p><div class="cols"><div><h4>Aspen &amp; Maroon Bells</h4><p>The Bells, a downtown walk and perhaps Aspen Mountain. Short hikes and town walks fit without an expensive stay.</p><p><b>Tradeoff:</b> access planning for the Bells and more expensive lodging.</p></div><div><h4>Crested Butte &amp; Gunnison Valley</h4><p>Elk Avenue, fall scenery, short walks and casual food. Add a ride if it appeals to both.</p><p><b>Tradeoff:</b> replaces the Bells unless there is time for both.</p></div><div><h4>Both</h4><p>Compare the two towns and connect via Carbondale, CO-133 and seasonal Kebler Pass.</p><p><b>Tradeoff:</b> more Colorado driving and less time in Utah. No direct ordinary road across the mountains.</p></div></div><div class="route-buttons" aria-label="Colorado options"><button data-colorado="aspen">Aspen</button><button data-colorado="cb">Crested Butte</button><button data-colorado="both">Both</button><button data-colorado="compare" aria-pressed="true">Compare options</button></div><p id="colorado-status" role="status">All options shown. Nothing chosen yet.</p><iframe id="colorado-map" title="Aspen and Crested Butte road alternatives" src="terrain.html?scope=colorado" style="width:100%;height:430px;border:0"></iframe></section>
+<!-- ASPEN / MAROON BELLS -->
+<section class="loc" data-loc="Aspen" data-option="aspen">
+  <div class="region">Aspen · via Independence Pass (seasonal, spectacular)</div>
+  <h2>Aspen &amp; Maroon Bells</h2>
+  <div class="cat">Mountain town · nearby scenic lake and trails</div>
+  <p class="lede">Late September can bring golden leaves beneath the two maroon peaks. Check the current shuttle and parking reservation options.</p>
+  <div class="photos">
+    <figure><img src="../assets/aspen-town.jpg" alt="Aspen downtown in summer"><figcaption>Aspen downtown · summer</figcaption></figure><figure><img src="../assets/mountains.jpg" alt="Maroon Bells"><figcaption>The Maroon Bells over Maroon Lake</figcaption></figure>
+  </div>
+  <div class="tabs"></div>
+  <div class="pane" data-tab="Stay">
+    <div class="item"><button class="pick">Add to trip</button><h4>USFS campgrounds, Maroon Creek Rd</h4><div class="meta">Dry-weather choice · check details before travel</div><div class="pc"><span>+ Wake up already at the trailhead side of town</span><em>− High, cold, limited sites</em></div></div>
+    <div class="item"><button class="pick">Add to trip</button><h4>Budget lodging, Basalt/Carbondale</h4><div class="meta">Rain fallback · 25–40 min down-valley</div><div class="pc"><span>+ Far cheaper than Aspen itself</span><em>− Adds driving</em></div></div>
+  </div>
+  <div class="pane" data-tab="Eat">
+    <div class="item"><button class="pick">Add to trip</button><h4>Down-valley casual spots, Basalt</h4><div class="meta"><a href="https://www.google.com/maps/search/restaurants+Basalt+CO" target="_blank" rel="noopener">Open in Google Maps</a> · Rating not checked</div><p>Aspen dining runs expensive; Basalt offers casual alternatives down-valley.</p></div>
+  </div>
+  <div class="pane" data-tab="Do">
+    <div class="item"><button class="pick">Add to trip</button><h4>Maroon Lake Scenic Loop</h4><div class="meta">Easy · 1 h</div><p>The postcard view with almost no effort.</p></div>
+    <div class="item"><button class="pick">Add to trip</button><h4>Crater Lake trail</h4><div class="meta">Moderate · 3–4 h</div><p>Up into the basin between the Bells, golden aspen groves most of the way.</p></div>
+  </div>
+  <div class="pane" data-tab="Events"><div class="item"><div aria-label="Event photo unavailable">▧ Photo unavailable</div><h4>Events not populated in this study</h4><div class="meta">Attendance not published</div></div></div>
+</section>
+
+<!-- CRESTED BUTTE -->
+<section class="loc" data-loc="Crested Butte" data-option="cb">
+  <div class="region">Gunnison Valley · one of the Colorado choices</div>
+  <h2>Crested Butte</h2>
+  <div class="cat">Historic town · false-front streets, big meadows</div>
+  <p class="lede">A good pick for ski-town character: Elk Avenue, bikes outside cafes, casual food and mountain views. Explore on foot, take a short hike, or ride if the mood is right. Kebler Pass adds autumn scenery when the seasonal road is open.</p>
+  <div class="photos">
+    <figure><img src="../assets/cb-fall.jpg" alt="Autumn landscape near Crested Butte"><figcaption>Crested Butte area · September 30, 2025</figcaption></figure>
+  </div>
+  <div class="tabs"></div>
+  <div class="pane" data-tab="Stay">
+    <div class="item"><button class="pick">Add to trip</button><h4>Crested Butte area camping (site to choose)</h4><div class="meta">Dry-weather choice · up Kebler Pass Rd</div><div class="pc"><span>+ Mountain setting</span><em>− Site and seasonal access still to choose</em></div></div>
+    <div class="item"><button class="pick">Add to trip</button><h4>Budget lodge in town</h4><div class="meta">Rain fallback</div><div class="pc"><span>+ Elk Ave on foot</span><em>− Shoulder-season closures; check ahead</em></div></div>
+  </div>
+  <div class="pane" data-tab="Eat">
+    <div class="item"><button class="pick">Add to trip</button><h4>Elk Avenue saloons &amp; cafés</h4><div class="meta"><a href="https://www.google.com/maps/search/restaurants+Elk+Avenue+Crested+Butte" target="_blank" rel="noopener">Open in Google Maps</a> · Rating not checked</div><p>Green chile, pizza, and old bar rooms in original 1880s buildings.</p></div>
+  </div>
+  <div class="pane" data-tab="Do">
+    <div class="item"><button class="pick">Add to trip</button><h4>Kebler Pass aspen drive</h4><div class="meta">Optional scenic drive · seasonal road</div><p>Stop often; the groves are the event.</p></div>
+  </div>
+  <div class="pane" data-tab="Events"><div class="item"><div aria-label="Event photo unavailable">▧ Photo unavailable</div><h4>Fall festival dates vary</h4><div class="meta">Attendance not published · check gunnisoncrestedbutte.com</div></div></div>
+</section>
+
+<!-- BIG B'S -->
+<details class="optional-stop" data-loc="Big B's Orchards"><summary>Passing near Paonia? Big B’s for lunch, cider and a break</summary><div class="loc" style="padding:18px 0">
+  <div class="region">Optional roadside stop · near Paonia</div>
+  <h3>Big B’s Delicious Orchards</h3>
+  <div class="cat">Lunch · cider garden · optional campsite</div>
+  <p class="lede">If the route passes near Paonia, stop for lunch, cider and a siesta in the garden. Camping is an option if it gets late or a longer break sounds good. No need to route the trip around it.</p>
+  <div class="photos">
+    <figure><img src="https://static.wixstatic.com/media/eb7c3d_3d5af1c3d3ed445caf4255631d420761~mv2_d_1920_1280_s_2.jpg/v1/fill/w_848,h_565,al_c,q_85/eb7c3d_3d5af1c3d3ed445caf4255631d420761~mv2_d_1920_1280_s_2.jpg" alt="Big B’s picnic and swings garden"><figcaption>Big B’s actual garden · official venue photo</figcaption></figure>
+  </div>
+  <div class="tabs"></div>
+  <div class="pane" data-tab="Stay">
+    <div class="item"><button class="pick">Add to trip</button><h4>Orchard camping at Big B's</h4><div class="meta">Dry-weather choice · book direct</div><div class="pc"><span>+ Cafe and cider garden on site</span><em>− Simple facilities</em></div></div>
+    <div class="item"><button class="pick">Add to trip</button><h4>Budget stay in Paonia</h4><div class="meta">Rain fallback · 10 min</div></div>
+  </div>
+  <div class="pane" data-tab="Eat">
+    <div class="item"><button class="pick">Add to trip</button><h4>Big B's farm café</h4><div class="meta"><a href="https://www.google.com/maps/search/Big+B's+Delicious+Orchards+Paonia" target="_blank" rel="noopener">Open in Google Maps</a> · Rating not checked</div><p>Farm plates and fresh-pressed juice; the cider flight is the point.</p></div>
+  </div>
+  
+  <div class="pane" data-tab="Events"><div class="item"><div aria-label="Event photo unavailable">▧ Photo unavailable</div><h4>Harvest-season live music, some weekends</h4><div class="meta">Attendance not published · check bigbs.com near the dates</div></div></div>
+</div></details>
+
+<section class="loc" data-loc="Telluride"><div class="region">San Juan Mountains</div><h2>Telluride</h2><div class="cat">Mountain town · box-canyon views · optional via ferrata</div><p class="lede">Town walks and canyon views first, with a hike or via ferrata if both want a bigger day. Staying in Town Park would make the town easy to explore; Matterhorn Campground is the alternative outside town.</p><div class="photos"><figure><img src="../assets/telluride.jpg" alt="Telluride town"><figcaption>Telluride</figcaption></figure></div><div class="tabs"></div><div class="pane" data-tab="Stay"><div class="item"><h4>Town Park Campground</h4><p>Target nights September 22–23; checkout September 24. <a href="https://www.telluride.gov/181/Campground" target="_blank" rel="noopener">Check reservations ↗</a></p></div><div class="item"><h4>Matterhorn Campground</h4><p>Alternative for September 22–23. Confirm seasonal operation and availability.</p></div></div><div class="pane" data-tab="Do"><div class="item"><h4>Town, gondola views and Bridal Veil area</h4><p>Choose a short outing or a longer hike. Via ferrata is an optional separate activity, not the default day.</p></div></div><div class="pane" data-tab="Eat"><div class="item"><h4>Casual meal and a beer in town</h4><p>Full researched food picks are still being moved into this layout.</p></div></div></section>
+<!-- MOAB -->
+<section class="loc" data-loc="Corona Arch">
+  <div class="region">Moab, Utah · the desert begins</div>
+  <h2>Moab &amp; Corona Arch</h2>
+  <div class="cat">Red rock hiking · river-road camping</div>
+  <p class="lede">Arches for the scenic drive, Corona Arch for a walk, and the river corridor for camping. Add mountain biking if both feel like riding; leave time for food, beer and a slower afternoon.</p>
+  <div class="photos">
+    <figure><img src="../assets/moab.jpg" alt="Corona Arch"><figcaption>Corona Arch, near Moab</figcaption></figure>
+  </div>
+  <div class="tabs"></div>
+  <div class="pane" data-tab="Stay">
+    <div class="item"><button class="pick">Add to trip</button><h4>BLM campgrounds, Potash Rd / Hwy 128</h4><div class="meta">Dry-weather choice · first-come riverside sites</div><div class="pc"><span>+ Canyon scenery beside camp</span><em>− Basic facilities; choose a site on arrival</em></div></div>
+    <div class="item"><button class="pick">Add to trip</button><h4>Budget motel, Moab</h4><div class="meta">Rain fallback · many on Main St</div></div>
+  </div>
+  <div class="pane" data-tab="Eat">
+    <div class="item"><button class="pick">Add to trip</button><h4>Moab Main Street eateries</h4><div class="meta"><a href="https://www.google.com/maps/search/restaurants+Moab+UT" target="_blank" rel="noopener">Open in Google Maps</a> · Rating not checked</div><p>Diners, taco counters, and brewery food built for post-hike appetites.</p></div>
+  </div>
+  <div class="pane" data-tab="Do">
+    <div class="item"><button class="pick">Add to trip</button><h4>Corona Arch trail</h4><div class="meta">Moderate · 1.5–2 h · cables on one short ledge</div></div>
+    <div class="item"><button class="pick">Add to trip</button><h4>Arches National Park scenic drive</h4><div class="meta">Drive and short stops · optional half day</div></div>
+  </div>
+  <div class="pane" data-tab="Events"><div class="item"><div aria-label="Event photo unavailable">▧ Photo unavailable</div><h4>Events not populated in this study</h4><div class="meta">Attendance not published</div></div></div>
+</section>
+
+<!-- BRANCH -->
+<div class="branch">
+  <h3>A fork in the road: two ways to Zion</h3>
+  <p style="font-size:14.5px">From Moab, both branches end in Zion Canyon before the last run to Las Vegas (2–3 Oct). Choose the scenery and stops that appeal most.</p>
+  <div class="cols">
+    <div>
+      <h4>Northern: Capitol Reef → Escalante → Bryce</h4>
+      <img src="../assets/bryce.jpg" alt="Bryce Canyon hoodoos" style="width:100%;height:110px;object-fit:cover;margin:10px 0"><p style="font-size:12px">Bryce Canyon</p>
+      <ul>
+        <li><b>+</b> Scenic Byway 12, arguably America's finest road</li>
+        <li><b>+</b> Sandstone cliffs at Capitol Reef, canyon country near Escalante, hoodoos at Bryce</li>
+        <li><b>+</b> Several short scenic stops along Highway 12</li>
+        <li><b>−</b> Winding roads and colder high-elevation nights</li>
+      </ul>
+    </div>
+    <div>
+      <h4>Southern: Monument Valley → Page</h4>
+      <img src="../assets/monument.jpg" alt="Monument Valley" style="width:100%;height:110px;object-fit:cover;border-radius:4px;margin:10px 0">
+      <ul>
+        <li><b>+</b> Monument Valley · the mythic Western skyline</li>
+        <li><b>+</b> Horseshoe Bend and Lake Powell at Page</li>
+        <li><b>−</b> Hotter, longer desert stretches, tour bookings needed for Antelope Canyon</li>
+      </ul>
+    </div>
+  </div>
+<div class="route-buttons" aria-label="Desert route"><button data-desert="north">Northern route</button><button data-desert="south">Southern route</button><button data-desert="compare" aria-pressed="true">Compare routes</button></div><iframe id="desert-map" title="Northern and southern Utah route fork" src="terrain.html?scope=desert" style="width:100%;height:430px;border:0"></iframe>
+  <p style="font-size:14px;margin-top:14px">Both arrive at <b>Zion Canyon</b> · riverside walks and shuttle-served big-wall trails · then ~2.5 h to Las Vegas.</p>
+  <img src="../assets/zion.jpg" alt="Zion Canyon" style="width:100%;height:180px;object-fit:cover;border-radius:6px;margin-top:12px">
+</div>
+
+
+
+<details class="design">
+  <summary>Design idea</summary>
+  <p style="margin-top:8px">Editorial field guide: locations are the spine, each a self-contained leaflet chapter with a strict Stay/Eat/Do/Events tab structure so the two travelers can compare places on equal terms. Photos appear only where verified for that exact place and season; everything else gets an honest placeholder rather than a borrowed image. Ratings and attendance are never invented · links go to live Google Maps searches with "Rating not checked" labels. The route fork is presented as a deliberate side-by-side decision, not a fixed itinerary. Picks accumulate in an in-memory shelf (sticky footer) as a lightweight shared shortlist. Single column, generous whitespace, serif leaflet voice, fully readable at 375px where photo rows stack vertically.</p>
+</details>
+
+</div>
+
+<div class="shelf" id="shelf"></div>
+
+<script src="food.js"></script><script src="discovery.js"></script><script src="events-data.js"></script><script src="events.js"></script>
+<script>
+var picks=[];
+document.querySelectorAll('section.loc, details.optional-stop').forEach(function(sec){
+  var tabs=sec.querySelector('.tabs'),panes=sec.querySelectorAll('.pane');
+  panes.forEach(function(p,i){
+    var b=document.createElement('button');b.textContent=p.dataset.tab;
+    if(i===0){b.className='on';p.classList.add('on');}
+    b.onclick=function(){tabs.querySelectorAll('button').forEach(function(x){x.classList.remove('on')});panes.forEach(function(x){x.classList.remove('on')});b.classList.add('on');p.classList.add('on');};
+    tabs.appendChild(b);
+  });
+});
+document.querySelectorAll('.pick').forEach(function(b){
+  b.onclick=function(){
+    var name=b.parentElement.querySelector('h4').textContent;
+    var loc=b.closest('[data-loc]').dataset.loc;if(loc==='Corona Arch')loc='Moab';
+    var key=loc+' · '+name;
+    var i=picks.indexOf(key);
+    if(i>-1){picks.splice(i,1);b.classList.remove('sel');b.textContent='Add to trip';}
+    else{picks.push(key);b.classList.add('sel');b.textContent='✓ On the list';}
+    var s=document.getElementById('shelf');
+    s.className=picks.length?'shelf show':'shelf';
+    s.textContent='Trip shortlist ('+picks.length+'): '+picks.join(' · ');
+  };
+});
+</script>
+<aside style="padding:20px;font:12px system-ui">Working travel guide. Dates and choices remain flexible. <a href="../credits.html" target="_blank">Existing photo credits</a></aside><details style="padding:16px;font:12px system-ui"><summary>New photo sources</summary><p>Aspen downtown, Daniel Case, August 2010. <a href="https://commons.wikimedia.org/wiki/File:Downtown_Aspen,_CO,_with_view_to_ski_slopes.jpg">Source</a> · <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>.</p><p>Crested Butte area autumn landscape, Ron Raffety, September 30, 2025. This is the surrounding landscape, not downtown. <a href="https://commons.wikimedia.org/wiki/File:Crested_Butte,_Colorado_2025.jpg">Source</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. Photos displayed with responsive cropping.</p><p>Big B’s picnic and swings garden: image embedded from <a href="https://www.bigbs.com/">Big B’s official website</a>, © Big B’s Fruit Co. Public reuse rights not confirmed.</p></details><script>
+let co='compare',desert='compare';function updateOverview(){document.getElementById('overview-map').src='terrain.html?scope=overview&co='+co+'&desert='+desert}
+document.querySelectorAll('[data-colorado]').forEach(b=>b.onclick=()=>{co=b.dataset.colorado;document.querySelectorAll('[data-colorado]').forEach(x=>x.setAttribute('aria-pressed',x===b));document.querySelectorAll('[data-option]').forEach(x=>x.hidden=co!=='compare'&&co!=='both'&&x.dataset.option!==co);document.getElementById('colorado-map').src='terrain.html?scope=colorado&choice='+co;document.getElementById('colorado-status').textContent={aspen:'Aspen selected; Crested Butte chapter hidden.',cb:'Crested Butte selected; Aspen chapter hidden.',both:'Both selected. Allow more Colorado time.',compare:'All options shown. Nothing chosen yet.'}[co];updateOverview()});
+document.querySelectorAll('[data-desert]').forEach(b=>b.onclick=()=>{desert=b.dataset.desert;document.querySelectorAll('[data-desert]').forEach(x=>x.setAttribute('aria-pressed',x===b));document.getElementById('desert-map').src='terrain.html?scope=desert&choice='+desert;updateOverview()});
+</script><script>document.querySelectorAll('.optional-stop .tabs button').forEach(b=>{if(b.textContent==='Eat')b.click()});</script><details style="padding:16px"><summary>Additional town photo credits</summary><p><a href="https://commons.wikimedia.org/wiki/File:Downtown_Leadville.JPG">Downtown Leadville.JPG</a> · <a href="//commons.wikimedia.org/w/index.php?title=User:Marjiranes&amp;action=edit&amp;redlink=1" class="new" title="User:Marjiranes (page does not exist)">MarjiRanes</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>. Display crop.</p><p><a href="https://commons.wikimedia.org/wiki/File:Breckenridge_Main_Street.jpg">Breckenridge Main Street.jpg</a> · <a href="//commons.wikimedia.org/w/index.php?title=User:Av9&amp;action=edit&amp;redlink=1" class="new" title="User:Av9 (page does not exist)">Av9</a> · <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>. Display crop.</p><p><a href="https://commons.wikimedia.org/wiki/File:Moab,_Utah_downtown.jpg">Moab, Utah downtown.jpg</a> · <a href="//commons.wikimedia.org/wiki/User:Quintin_Soloviev" title="User:Quintin Soloviev">Quintin Soloviev</a> · <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>. Display crop.</p></details><script>
+function renderDates(){const c=typeof co==='string'?co:'compare',d=typeof desert==='string'?desert:'compare';const colorado=c==='both'?'Sep 20 Aspen; Sep 21 Crested Butte':c==='aspen'?'Sep 20–21 · Aspen':c==='cb'?'Sep 20–21 · Crested Butte':'Sep 20–21 · Aspen OR Crested Butte; both splits the two nights';const rows=[['Sep 19 · 1 night','Breckenridge/Frisco area; optional farther-west first night'],[colorado,'Colorado choice · leave for Telluride Sep 22'],['Sep 22–23 · 2 nights','Telluride · leave Sep 24'],['Sep 24–26 · 3 nights','Moab · leave Sep 27'],['Sep 27–28 · 2 nights',d==='south'?'Monument Valley / Page; Antelope Canyon Sep 28':d==='north'?'Capitol Reef / Escalante / Bryce; choose overnight bases':'Northern OR southern desert route'],['Sep 29–Oct 1 · 3 nights','Zion area · leave Oct 2'],['Oct 2 · 1 night','Las Vegas · Oct 3 flight at 19:20']];document.getElementById('date-list').innerHTML=rows.map(r=>'<div class="date-row"><b>'+r[0]+'</b>'+r[1]+'</div>').join('');document.getElementById('aspen-booking').textContent=c==='cb'?'Not needed for the Crested Butte-only choice.':c==='both'?'Both-town choice: check in September 20, check out September 21. One night.':'Aspen-only choice: check in September 20, check out September 22. Two nights. If choosing both towns instead, shorten to one night.';document.getElementById('antelope-booking').textContent=d==='north'?'Not included on the northern route.':'Tentative September 28, ideally after sleeping in the Page area September 27. Southern route only; September 29 is a backup that reduces Zion time.';const dates={'Breckenridge/Frisco area':'Tentative night: September 19','Leadville / Twin Lakes':'Passing stop: September 20; September 19 if continuing after pickup','Aspen':c==='both'?'Tentative night: September 20 · checkout September 21':'Tentative nights: September 20–21 · checkout September 22','Crested Butte':c==='both'?'Tentative night: September 21 · checkout September 22':'Tentative nights: September 20–21 · checkout September 22','Telluride':'Tentative nights: September 22–23 · checkout September 24','Corona Arch':'Moab nights: September 24–26 · checkout September 27'};document.querySelectorAll('section.loc[data-loc]').forEach(el=>{let t=dates[el.dataset.loc];if(!t)return;let tag=el.querySelector('.visit-date');if(!tag){tag=document.createElement('p');tag.className='visit-date';el.querySelector('h2').after(tag);}tag.textContent=t;});}
+document.querySelectorAll('[data-colorado],[data-desert]').forEach(b=>b.addEventListener('click',renderDates));renderDates();
+</script><details id="photo-credits" style="padding:16px"><summary>Gallery photo credits</summary><p><a href="https://commons.wikimedia.org/wiki/File:Elk_Avenue,_the_main_street_of_Crested_Butte,_a_town_heavily_populated_during_ski_season_located_high_in_the_Rocky_Mountains_in_Gunnison_County,_Colorado_LCCN2015633515.tif">Elk Avenue in Crested Butte</a> · Carol M. Highsmith · Public domain. Display crop.</p><p><a href="https://commons.wikimedia.org/wiki/File:Gothic_mountain.jpg">Gothic Mountain</a> · Steven Damron from San Francisco · <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>. Display crop.</p><p><a href="https://commons.wikimedia.org/wiki/File:Silver_dollar_saloon_2023.jpg">Silver Dollar Saloon, Leadville</a> · Laurenschneider210 · <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>. Display crop.</p><p><a href="https://commons.wikimedia.org/wiki/File:Telluride_Midday_Gondola_View_2025.jpg">Telluride from the gondola</a> · NatalieZavaleta · <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>. Display crop.</p><p><a href="https://commons.wikimedia.org/wiki/File:Bridal_Veil_Falls_Telluride_CO3.jpg">Bridal Veil Falls and powerhouse</a> · Terry Foote (talk) · <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>. Display crop.</p><p><a href="https://commons.wikimedia.org/wiki/File:A283,_Slickrock_Bike_Trail,_Moab,_Utah,_USA,_2008.JPG">Slickrock Bike Trail, Moab</a> · Brian W. Schaller · <a href="http://artlibre.org/licence/lal/en">FAL</a>. Display crop.</p><p><a href="https://commons.wikimedia.org/wiki/File:Dead_Horse_Point,_Colorado_River.jpg">Dead Horse Point</a> · Clément Bardot · <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>. Display crop.</p><p><a href="https://commons.wikimedia.org/wiki/File:Lower_Antelope_Canyon_November_2018_008.jpg">Lower Antelope Canyon</a> · King of Hearts · <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>. Display crop.</p><p><a href="https://commons.wikimedia.org/wiki/File:Road_in_Valley_of_Fire.jpg">Valley of Fire</a> · Gzzz · <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>. Display crop.</p><p><a href="https://commons.wikimedia.org/wiki/File:Crested_Butte,_Colorado_2025.jpg">Autumn colors near Crested Butte</a> · RON RAFFETY · <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>. Display crop.</p><p><a href="https://commons.wikimedia.org/wiki/File:Hoover_Dam_and_Black_Canyon_seen_from_the_Mike_O%27Callaghan%E2%80%93Pat_Tillman_Memorial_Bridge,_panorama,_Arizona%E2%80%93Nevada.jpg">Hoover Dam</a> · Christian David · <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>. Display crop.</p></details><p style="padding:16px;font:12px system-ui">Venue and activity photos are embedded from their linked official websites. Source details checked September 15, 2026; hours and offers may change.</p><script src="route-options.js"></script><section class="wrap" style="padding-top:20px;padding-bottom:30px"><details><summary>Use the guide in your group chat</summary><p>Pin the guide link in WhatsApp. Try @Meta AI with a question; if it cannot read the page, paste the trip brief below. A ChatGPT group chat can also use the text or uploaded file.</p><p><button id="copy-brief" style="padding:12px;margin:10px 0">Copy trip brief</button> · <a href="../markdown/" target="_blank">Read the AI trip brief</a> · <a href="../markdown/" target="_blank">Guide for AI assistants</a></p><p id="copy-status" role="status"></p><p style="font:12px system-ui">Chat answers do not edit this website. Keep a short “decisions so far” message in the group and refresh the brief after major changes.</p></details></section><script>document.getElementById('copy-brief').onclick=async()=>{const s=document.getElementById('copy-status');try{const r=await fetch('../trip-brief.txt');if(!r.ok)throw Error();await navigator.clipboard.writeText(await r.text());s.textContent='Copied. Paste it into your group chat with your question.';}catch(e){s.textContent='Open the trip brief link and copy the text from there.';}};</script></body>
+</html>

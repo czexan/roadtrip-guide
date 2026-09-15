@@ -1,0 +1,17 @@
+/* Small route additions; no shared state or automatic reservations. */
+(() => {
+  const mapFrame=document.getElementById('desert-map'),fork=mapFrame.closest('.branch');
+  const box=document.createElement('div');box.className='bryce-option';box.id='bryce-option';
+  box.innerHTML=`<img src="../assets/bryce.jpg" alt="Bryce Canyon hoodoos"><div><h3>Southern route, with Bryce too</h3><p><b>Zion / Springdale ↔ Bryce: about 2–2½ hours each way.</b> A day trip means roughly 4–5 hours driving, plus park time.</p><p>Keep the Zion base and visit Bryce on <b>September 30</b>, weather permitting. That uses one Zion day without adding a hotel move.</p><details><summary>Or visit Bryce between Page and Zion</summary><p><b>September 28:</b> Antelope Canyon, then roughly 3–3½ hours to Bryce if the tour finishes early enough. Stay near Bryce. <b>September 29:</b> morning viewpoints or a hike, then 2–2½ hours to Zion. A later Antelope tour means an extra Page night and less time in Zion.</p></details><div class="route-buttons"><button id="include-bryce" aria-pressed="false">Highlight Bryce add-on</button></div><p style="font-size:12px"><a href="https://www.nps.gov/zion/frequently-asked-questions-about-other-area-attractions.htm" target="_blank" rel="noopener">NPS drive estimate</a> · Allow more time for stops, park traffic and the Zion tunnel.</p></div>`;
+  fork.querySelector('.route-buttons').before(box);
+  window.bryceOption=false;
+  const originalOverview=updateOverview;
+  updateOverview=function(){originalOverview();if(window.bryceOption){const f=document.getElementById('overview-map');f.src+='&bryce=1';}};
+  const refresh=()=>{mapFrame.src='terrain.html?scope=desert&choice='+desert+(window.bryceOption?'&bryce=1':'');updateOverview();};
+  document.getElementById('include-bryce').onclick=function(){window.bryceOption=!window.bryceOption;this.setAttribute('aria-pressed',window.bryceOption);this.textContent=window.bryceOption?'Bryce add-on highlighted':'Highlight Bryce add-on';if(window.bryceOption)document.querySelector('[data-desert="south"]').click();refresh();};
+  document.querySelectorAll('[data-desert]').forEach(b=>b.addEventListener('click',refresh));
+  const drives=document.createElement('details');drives.className='drive-times';drives.id='drive-times';drives.innerHTML='<summary>How long between stops? · driving estimates</summary><p>Approximate wheel time, before meals, hikes and photo stops. Mountain roads and park queues can add time. Check navigation on the day.</p><div id="drive-rows"></div><p style="font-size:12px">Road estimates checked September 15, 2026. These are planning ranges, not live traffic predictions.</p>';
+  document.querySelector('.mapbox').after(drives);
+  fetch('driving-legs.json').then(r=>r.json()).then(rows=>{document.getElementById('drive-rows').innerHTML=rows.map(r=>{const h=r.planningRange||`${Math.floor(r.hours*2)/2}–${Math.ceil(r.hours*2)/2+.5} h`;const q=encodeURIComponent(r.from),d=encodeURIComponent(r.to);return `<div class="drive-row"><span>${r.from} → ${r.to}</span><b>${h}</b><a href="https://www.google.com/maps/dir/?api=1&origin=${q}&destination=${d}&travelmode=driving" target="_blank" rel="noopener">Directions ↗</a></div>`}).join('')}).catch(()=>document.getElementById('drive-rows').textContent='Drive estimates could not load. Use the map and current navigation.');
+  document.querySelector('[data-desert="south"]').click();
+})();

@@ -1,0 +1,127 @@
+[
+  {
+    "from": "Denver airport",
+    "to": "Breckenridge/Frisco",
+    "miles": 95,
+    "hours": 2.03,
+    "source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-104.6737,39.8561;-106.0975,39.5744?overview=full&geometries=geojson&steps=false",
+    "checked": "2026-09-15"
+  },
+  {
+    "from": "Breckenridge/Frisco",
+    "to": "Aspen",
+    "miles": 89,
+    "hours": 2.68,
+    "source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-106.0975,39.5744;-106.2925,39.2508;-106.564,39.109;-106.8175,39.1911?overview=full&geometries=geojson&steps=false",
+    "checked": "2026-09-15"
+  },
+  {
+    "from": "Breckenridge/Frisco",
+    "to": "Crested Butte",
+    "miles": 176,
+    "hours": 3.95,
+    "source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-106.0975,39.5744;-106.2925,39.2508;-106.128,38.842;-106.925,38.5458;-106.9878,38.8697?overview=full&geometries=geojson&steps=false",
+    "checked": "2026-09-15"
+  },
+  {
+    "from": "Aspen",
+    "to": "Crested Butte",
+    "miles": 103,
+    "hours": 3.25,
+    "source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-106.8175,39.1911;-107.211,39.402;-107.354,38.921;-106.9878,38.8697?overview=full&geometries=geojson&steps=false",
+    "checked": "2026-09-15"
+  },
+  {
+    "from": "Aspen",
+    "to": "Telluride",
+    "miles": 204,
+    "hours": 5.24,
+    "source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-106.8175,39.1911;-107.211,39.402;-107.596,38.868;-107.876,38.478;-107.8123,37.9375?overview=full&geometries=geojson&steps=false",
+    "checked": "2026-09-15"
+  },
+  {
+    "from": "Crested Butte",
+    "to": "Telluride",
+    "miles": 158,
+    "hours": 3.86,
+    "source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-106.9878,38.8697;-106.925,38.5458;-107.876,38.478;-107.8123,37.9375?overview=full&geometries=geojson&steps=false",
+    "checked": "2026-09-15"
+  },
+  {
+    "from": "Telluride",
+    "to": "Moab",
+    "miles": 238,
+    "hours": 4.94,
+    "source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-107.8123,37.9375;-109.5498,38.5733?overview=full&geometries=geojson&steps=false",
+    "checked": "2026-09-15",
+    "planningRange": "2\u00bd\u20133\u00bd h",
+    "planningSource": "https://www.telluride.com/discover/getting-here/",
+    "note": "Use CO-145 / CO-90 / UT-46 via Naturita. The unconstrained routing engine returned a longer alternative; range uses tourism guidance."
+  },
+  {
+    "from": "Moab",
+    "to": "Monument Valley",
+    "miles": 149,
+    "hours": 3.21,
+    "source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-109.5498,38.5733;-110.112,36.982?overview=full&geometries=geojson&steps=false",
+    "checked": "2026-09-15"
+  },
+  {
+    "from": "Monument Valley",
+    "to": "Page",
+    "miles": 125,
+    "hours": 2.67,
+    "source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-110.112,36.982;-111.4558,36.9147?overview=full&geometries=geojson&steps=false",
+    "checked": "2026-09-15"
+  },
+  {
+    "from": "Page",
+    "to": "Zion / Springdale",
+    "miles": 117,
+    "hours": 2.74,
+    "source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-111.4558,36.9147;-112.526,37.047;-112.9988,37.1889?overview=full&geometries=geojson&steps=false",
+    "checked": "2026-09-15"
+  },
+  {
+    "from": "Page",
+    "to": "Bryce Canyon",
+    "miles": 153,
+    "hours": 3.31,
+    "source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-111.4558,36.9147;-112.526,37.047;-112.1677,37.6283?overview=full&geometries=geojson&steps=false",
+    "checked": "2026-09-15",
+    "planningRange": "3\u20133\u00bd h"
+  },
+  {
+    "from": "Zion / Springdale",
+    "to": "Bryce Canyon",
+    "miles": 87,
+    "hours": 2.28,
+    "source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-112.9988,37.1889;-112.679,37.224;-112.1677,37.6283?overview=full&geometries=geojson&steps=false",
+    "checked": "2026-09-15",
+    "planningRange": "2\u20132\u00bd h"
+  },
+  {
+    "from": "Zion / Springdale",
+    "to": "Las Vegas",
+    "miles": 164,
+    "hours": 3.09,
+    "source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-112.9988,37.1889;-115.1398,36.1699?overview=full&geometries=geojson&steps=false",
+    "checked": "2026-09-15"
+  },
+  {
+    "from": "Moab",
+    "to": "Torrey / Capitol Reef",
+    "miles": 157,
+    "hours": 3.17,
+    "source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-109.5498,38.5733;-111.4205,38.2997?overview=full&geometries=geojson&steps=false",
+    "checked": "2026-09-15"
+  },
+  {
+    "from": "Torrey / Capitol Reef",
+    "to": "Bryce Canyon",
+    "miles": 116,
+    "hours": 2.94,
+    "source": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-111.4205,38.2997;-111.6021,37.7703;-112.1677,37.6283?overview=full&geometries=geojson&steps=false",
+    "checked": "2026-09-15"
+  }
+]

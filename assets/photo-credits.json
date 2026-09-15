@@ -1,0 +1,142 @@
+[
+  {
+    "id": "mountains",
+    "file": "assets/mountains.jpg",
+    "title": "Maroon Bells",
+    "photo": "Maroon_Bells_(11553)a.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Maroon_Bells_(11553)a.jpg",
+    "author": "<a href=\"//commons.wikimedia.org/wiki/User:Rhododendrites\" title=\"User:Rhododendrites\">Rhododendrites</a>",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "cb",
+    "file": "assets/cb.jpg",
+    "title": "Crested Butte, Colorado",
+    "photo": "Crested_Butte.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Crested_Butte.jpg",
+    "author": "Chris Segal",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "id": "telluride",
+    "file": "assets/telluride.jpg",
+    "title": "Telluride, Colorado",
+    "photo": "Telluride_Colorado.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Telluride_Colorado.jpg",
+    "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Fitchhollister&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Fitchhollister (page does not exist)\">Fitchhollister</a>",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "id": "moab",
+    "file": "assets/moab.jpg",
+    "title": "Corona Arch",
+    "photo": "Corona_Arch1.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Corona_Arch1.jpg",
+    "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Phreakdigital&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Phreakdigital (page does not exist)\">Michael Grindstaff</a>",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "id": "arches",
+    "file": "assets/arches.jpg",
+    "title": "Arches National Park",
+    "photo": "Delicate_arch_sunset.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Delicate_arch_sunset.jpg",
+    "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Palacemusic&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Palacemusic (page does not exist)\">Palacemusic</a>",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "id": "reef",
+    "file": "assets/reef.jpg",
+    "title": "Capitol Reef National Park",
+    "photo": "Capitol_Reef_National_Park.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Capitol_Reef_National_Park.jpg",
+    "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/53074617@N00\">Wolfgang Staudt</a>",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "id": "escalante",
+    "file": "assets/escalante.jpg",
+    "title": "Grand Staircase\u2013Escalante National Monument",
+    "photo": "Grand_Staircase_Escalante_National_Monument_in_Utah_-_2015-02-07.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Grand_Staircase_Escalante_National_Monument_in_Utah_-_2015-02-07.jpg",
+    "author": "Bureau of Land Management (mypubliclands on Flickr) <a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/people/mypubliclands/\">https://www.flickr.com/people/mypubliclands/</a>",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  {
+    "id": "bryce",
+    "file": "assets/bryce.jpg",
+    "title": "Bryce Canyon National Park",
+    "photo": "Inspiration_Point_Bryce_Canyon_November_2018_panorama.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Inspiration_Point_Bryce_Canyon_November_2018_panorama.jpg",
+    "author": "<a href=\"//commons.wikimedia.org/wiki/User:King_of_Hearts\" title=\"User:King of Hearts\">King of Hearts</a>",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "monument",
+    "file": "assets/monument.jpg",
+    "title": "Monument Valley",
+    "photo": "Monument_Valley,_Utah,_USA_(23611451292).jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Monument_Valley,_Utah,_USA_(23611451292).jpg",
+    "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/42477684@N08\">Domenico Convertini</a>",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "id": "zion",
+    "file": "assets/zion.jpg",
+    "title": "Zion National Park",
+    "photo": "Zion_angels_landing_view.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Zion_angels_landing_view.jpg",
+    "author": "<a href=\"//commons.wikimedia.org/wiki/User:Diliff\" title=\"User:Diliff\">Diliff</a>",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "id": "narrows",
+    "file": "assets/narrows.jpg",
+    "title": "The Narrows (Zion National Park)",
+    "photo": "Zion_Narrows.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Zion_Narrows.jpg",
+    "author": "Jon Sullivan",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  {
+    "id": "vegas",
+    "file": "assets/vegas.jpg",
+    "title": "Las Vegas",
+    "photo": "Las_Vegas_from_above_(40064746644).jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Las_Vegas_from_above_(40064746644).jpg",
+    "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/158652122@N02\">Mike McBey</a>",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "id": "frisco",
+    "file": "assets/frisco.jpg",
+    "title": "Frisco, Colorado",
+    "photo": "Frisco_Colorado_roads.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Frisco_Colorado_roads.jpg",
+    "author": "<a href=\"//commons.wikimedia.org/wiki/User:SunDawn\" title=\"User:SunDawn\">SunDawn</a>",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "grand",
+    "file": "assets/grand.jpg",
+    "title": "Cape Royal",
+    "photo": "GC_SR_overzicht.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:GC_SR_overzicht.jpg",
+    "author": "<a href=\"https://en.wikipedia.org/wiki/nl:User:Felix2036\" class=\"extiw\" title=\"w:nl:User:Felix2036\">Felix2036</a> at <a href=\"https://en.wikipedia.org/wiki/nl:\" class=\"extiw\" title=\"w:nl:\">Dutch Wikipedia</a>",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+  }
+]
