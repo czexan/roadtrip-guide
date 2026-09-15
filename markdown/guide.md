@@ -1268,3 +1268,64 @@ Pin the guide link in WhatsApp. Try @Meta AI with a question; if it cannot read 
 · Open trip brief · Full guide as text
 
 Chat answers do not edit this website. Keep a short “decisions so far” message in the group and refresh the brief after major changes.
+
+## Google Maps ratings
+
+Observed September 15, 2026. Ratings can change; counts and listing scope are included. Unlisted items have no verified Google score.
+
+| Place | Google rating | Reviews | Scope |
+|---|---:|---:|---|
+| [Antica Forma](https://www.google.com/maps/search/Antica%20Forma%20Moab) | 4.3/5 | 3590 | Place listing |
+| [Love Muffin Cafe](https://www.google.com/maps/search/Love%20Muffin%20Cafe%20Moab) | 4.6/5 | 1145 | Place listing |
+| [Trailhead Public House & Eatery](https://www.google.com/maps/search/Trailhead%20Public%20House%20Moab) | 4.6/5 | 2080 | Place listing |
+| [World Famous Woody’s Tavern](https://www.google.com/maps/search/World%20Famous%20Woodys%20Tavern%20Moab) | 4.0/5 | 689 | Place listing |
+| [Moab Brewery](https://www.google.com/maps/search/Moab%20Brewery%20Moab) | 4.1/5 | 3424 | Place listing |
+| [Outer Range Brewing Co.](https://www.google.com/maps/search/Outer%20Range%20Brewing%20Frisco) | 4.7/5 | 1118 | Place listing |
+| [Silver Dollar Saloon](https://www.google.com/maps/search/Silver%20Dollar%20Saloon%20Leadville) | 4.3/5 | 1074 | Place listing |
+| [Aspen Brewing Company](https://www.google.com/maps/search/Aspen%20Brewing%20Company%20Aspen) | 4.4/5 | 116 | Place listing |
+| [Public House](https://www.google.com/maps/search/Public%20House%20Crested%20Butte) | 4.4/5 | 419 | Place listing |
+| [Telluride Brewing Co. Brew Pub](https://www.google.com/maps/search/Telluride%20Brewing%20Company%20Brew%20Pub%20Mountain%20Village) | 4.5/5 | 145 | Place listing |
+| [Milt’s Stop & Eat](https://www.google.com/maps/search/Milts%20Stop%20and%20Eat%20Moab) | 4.5/5 | 3750 | Place listing |
+| [Ember at Red Cliffs Lodge](https://www.google.com/maps/search/Ember%20Red%20Cliffs%20Lodge%20Moab) | 4.1/5 | 247 | Place listing |
+| [Chimayo Grill](https://www.google.com/maps/search/Chimayo%20Mexican%20Grill%20Dillon) | 4.5/5 | 1358 | Place listing |
+| [Whiskey Star Smokehouse](https://www.google.com/maps/search/Whiskey%20Star%20Smokehouse%20Breckenridge) | 4.3/5 | 1284 | Place listing |
+| [Brown Dog Pizza](https://www.google.com/maps/search/Brown%20Dog%20Pizza%20Telluride) | 4.6/5 | 2451 | Place listing |
+| [Secret Stash](https://www.google.com/maps/search/Secret%20Stash%20Crested%20Butte) | 4.7/5 | 3079 | Place listing |
+| [Teocalli Tamale](https://www.google.com/maps/search/Teocalli%20Tamale%20Crested%20Butte) | 4.6/5 | 615 | Place listing |
+| [High Alpine Brewing Company · Gunnison](https://www.google.com/maps/search/High%20Alpine%20Brewing%20Gunnison) | 4.3/5 | 644 | Place listing |
+| [Talk of the Town](https://www.google.com/maps/search/Talk%20of%20the%20Town%20Crested%20Butte) | 4.4/5 | 192 | Place listing |
+| [The Bivvi Hostel, Breckenridge](https://www.google.com/maps/search/The%20Bivvi%20Hostel%20Breckenridge) | 4.7/5 | 384 | Place listing |
+| [Difficult Campground](https://www.google.com/maps/search/Difficult%20Campground%20Aspen) | 4.6/5 | 185 | Place listing |
+| [Weller Campground](https://www.google.com/maps/search/Weller%20Campground%20Aspen) | 4.6/5 | 54 | Place listing |
+| [Gothic Valley camping](https://www.google.com/maps/search/Gothic%20Campground%20Crested%20Butte) | 4.5/5 | 36 | Gothic Campground rating |
+| [Town Park Campground](https://www.google.com/maps/search/Telluride%20Town%20Park%20Campground) | 4.3/5 | 178 | Place listing |
+| [Matterhorn Campground](https://www.google.com/maps/search/Matterhorn%20Campground%20Telluride) | 4.7/5 | 108 | Place listing |
+| [Goose Island Campground](https://www.google.com/maps/search/Goose%20Island%20Campground%20Moab) | 4.5/5 | 237 | Place listing |
+| [Drinks Canyon Campground](https://www.google.com/maps/search/Drinks%20Canyon%20Campground%20Moab) | 4.5/5 | 99 | Place listing |
+| [Big Bend Campground](https://www.google.com/maps/search/Big%20Bend%20Campground%20Moab) | 4.6/5 | 126 | Place listing |
+| [Grandstaff Campground](https://www.google.com/maps/search/Grandstaff%20Campground%20Moab) | 4.5/5 | 109 | Place listing |
+| [Sand Flats Recreation Area campgrounds](https://www.google.com/maps/search/Sand%20Flats%20Recreation%20Area%20Moab) | 4.8/5 | 581 | Place listing |
+| [West Maroon Pass toward Aspen](https://www.google.com/maps/search/West%20Maroon%20Pass%20Colorado) | 5.0/5 | 15 | Landmark rating |
+| [Frigid Air Pass / West Maroon circuit](https://www.google.com/maps/search/Frigid%20Air%20Pass%20Colorado) | 4.9/5 | 8 | Landmark rating |
+| [Bridal Veil Falls trail](https://www.google.com/maps/search/Bridal%20Veil%20Falls%20Telluride) | 4.9/5 | 203 | Landmark rating |
+| [Lewis Mill hike](https://www.google.com/maps/search/Lewis%20Mill%20Telluride) | 3.3/5 | 7 | Landmark rating |
+| [Mount Sneffels summit via Yankee Boy Basin](https://www.google.com/maps/search/Mount%20Sneffels%20Colorado) | 4.8/5 | 91 | Landmark rating |
+| [Corona Arch trail](https://www.google.com/maps/search/Corona%20Arch%20Moab) | 4.9/5 | 1196 | Place listing |
+| [Dead Horse Point](https://www.google.com/maps/search/Dead%20Horse%20Point%20State%20Park) | 4.8/5 | 6597 | Place listing |
+| [Slickrock Trail](https://www.google.com/maps/search/Slickrock%20Trail%20Moab) | 4.8/5 | 740 | Place listing |
+| [Navajo Rocks](https://www.google.com/maps/search/Navajo%20Rocks%20trailhead%20Moab) | 4.9/5 | 74 | Trailhead rating |
+| [Valley of Fire State Park](https://www.google.com/maps/search/Valley%20of%20Fire%20State%20Park) | 4.8/5 | 18574 | Place listing |
+| [Hoover Dam](https://www.google.com/maps/search/Hoover%20Dam) | 4.7/5 | 51763 | Place listing |
+| [Red Rock Canyon](https://www.google.com/maps/search/Red%20Rock%20Canyon%20National%20Conservation%20Area) | 4.8/5 | 25865 | Place listing |
+| [Dan Mick’s guided Jeep tour](https://www.google.com/maps/search/Dan%20Micks%20Jeep%20Tours%20Moab) | 5.0/5 | 455 | Place listing |
+| [Hell’s Revenge guided 4×4 tour](https://www.google.com/maps/search/Moab%20Adventure%20Center) | 4.9/5 | 3884 | Operator rating |
+| [Colorado River half-day float](https://www.google.com/maps/search/Moab%20Adventure%20Center) | 4.9/5 | 3884 | Operator rating |
+| [Big B’s cider garden](https://www.google.com/maps/search/Big%20Bs%20Delicious%20Orchards%20Hotchkiss) | 4.7/5 | 926 | Place listing |
+| [Arches scenic drive + short walks](https://www.google.com/maps/search/Arches%20National%20Park) | 4.8/5 | 31412 | Place listing |
+| [Telluride via ferrata](https://www.google.com/maps/search/Telluride%20Via%20Ferrata) | 4.6/5 | 70 | Place listing |
+| [Mill Canyon dinosaur sites](https://www.google.com/maps/search/Mill%20Canyon%20Dinosaur%20Tracksite) | 4.7/5 | 639 | Place listing |
+| [Broken Compass — Main Street](https://www.google.com/maps/search/Broken+Compass+Brewery+Main+Street+Breckenridge) | 4.7/5 | 235 | Place listing |
+| [Aspen Brewing Company pizza](https://www.google.com/maps/search/Aspen%20Brewing%20Company%20Aspen) | 4.4/5 | 116 | Venue rating, not an individual dish |
+| [Peak One Campground](https://www.google.com/maps/search/Peak%20One%20Campground%20Frisco) | 4.3/5 | 344 | Peninsula Road listing |
+| [Maroon Lake Scenic Loop](https://www.google.com/maps/search/Maroon%20Lake%20Colorado) | 4.8/5 | 168 | Lake rating |
+| [Trail 401](https://www.google.com/maps/search/401%20Trail%20Crested%20Butte) | 4.8/5 | 55 |  |
