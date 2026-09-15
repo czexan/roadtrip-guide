@@ -169,39 +169,38 @@ Frisco Main Street
 Breckenridge Arts District · summer flowers
 Stay
 Places to stay
-Area context: Frisco Main Street
+Tent overlooking Dillon Reservoir at Peak One Campground
 Peak One Campground
 Campground · Frisco Peninsula · good-weather option
 
 A practical tent stop on the Frisco Peninsula, with recreation paths toward town and around the reservoir.
 
 + Reservoir setting and access to Frisco− Outdoor night; choose the hostel if the weather is poor
-Area context: Frisco Main Street
+The Bivvi Hostel exterior in autumn
 The Bivvi Hostel, Breckenridge
 First indoor choice · Rooms and bunks ↗ (https://www.thebivvi.com/rooms/all)
 
 A hostel base for Breckenridge, with shared and private room options. Check the price for two before choosing.
 
 + Hostel atmosphere and town access− Price and availability still to check
-Area context: Frisco Main Street
 Other first-night options
 
 A good deal at Copper Mountain could work. If it is still early and everyone feels good, continue toward Leadville or Twin Lakes instead of making Summit County mandatory.
 
 Do
 Things to do
-Area context: Frisco Main Street
 Dillon Reservoir rec path
 Easy · walk or rent bikes
 
 Flat lakeside miles with Tenmile Range backdrops · a gentle first day at altitude.
 
-Area context: Frisco Main Street
+AllTrails · full reservoir loop ↗ (https://www.alltrails.com/trail/us/colorado/dillon-reservoir-loop)
 Mount Royal trail
 Moderate · 2–3 h from town
 
 Steep but short, straight from Main Street to a view over the whole valley.
 
+AllTrails ↗ (https://www.alltrails.com/trail/us/colorado/royal-mountain)
 Eat
 
 Browse the options. On a phone, swipe across each row.
@@ -270,14 +269,12 @@ Harrison Avenue and the Silver Dollar Saloon make a good passing stop. Continue 
 
 Stay
 Places to stay
-Area context: Silver Dollar Saloon · Harrison Avenue
 Keep going, unless it is late
 
 Leadville lodging or Twin Lakes camping can be a first-night extension or a later stop. Otherwise continue to the selected Colorado destination.
 
 Do
 Things to do
-Area context: Silver Dollar Saloon · Harrison Avenue
 Leadville town walk
 
 A short look around the historic center before continuing toward Aspen or the Gunnison Valley.
@@ -336,15 +333,34 @@ Late September can bring golden leaves beneath the two maroon peaks. Check the c
 Aspen pedestrian mall · Aspen Snowmass
 Maroon Bells over Maroon Lake
 Stay
-Places to stay
-Area context: Aspen pedestrian mall · Aspen Snowmass
-USFS campgrounds, Maroon Creek Rd
-Dry-weather choice · check details before travel
-+ Wake up already at the trailhead side of town− High, cold, limited sites
-Area context: Aspen pedestrian mall · Aspen Snowmass
-Budget lodging, Basalt/Carbondale
-Rain fallback · 25–40 min down-valley
-+ Far cheaper than Aspen itself− Adds driving
+
+Browse the options. On a phone, swipe across each row.
+
+Campgrounds east of Aspen
+Site 2 among aspens at Difficult Campground
+ASPEN CAMPING CHOICE
+Difficult Campground
+
+Target September 20–21 if choosing Aspen; shorten to one night if also visiting Crested Butte. Check seasonal operation and availability. Maroon Bells access is a separate reservation.
+
+Details ↗ (https://www.recreation.gov/camping/campgrounds/231880)
+Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Difficult%20Campground%20Aspen)
+Evening campfire at Weller Campground
+SMALLER CAMPGROUND OPTION
+Weller Campground
+
+Another campground east of Aspen along Highway 82. Check current operation and site arrangements before relying on it.
+
+Details ↗ (https://www.google.com/maps/search/?api=1&query=Weller+Campground+Aspen)
+Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Weller%20Campground%20Aspen)
+Indoor fallback
+DOWN-VALLEY LODGING SEARCH
+Basalt / Carbondale room deal
+
+Check a shared room against the $120–140 target if weather rules out camping. Allow extra driving back to Aspen.
+
+Details ↗ (https://www.google.com/maps/search/Basalt+Carbondale+motels/)
+Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Basalt%20%2F%20Carbondale%20room%20deal%20Aspen)
 Do
 
 Browse the options. On a phone, swipe across each row.
@@ -358,6 +374,7 @@ The classic lake-and-peaks view. Arrange parking or shuttle access separately fr
 
 Details ↗ (https://www.aspensnowmass.com/visit/activities/summer/maroon-bells)
 Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Maroon%20Lake%20Scenic%20Loop%20Aspen)
+AllTrails ↗ (https://www.alltrails.com/trail/us/colorado/maroon-bells-scenic-loop-trail)
 Downtown Aspen
 TOWN WALK
 Aspen downtown stroll
@@ -367,7 +384,6 @@ Historic streets, coffee and a look around before heading back to camp.
 Details ↗ (https://aspenchamber.org/)
 Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Aspen%20downtown%20stroll%20Aspen)
 Longer outing
-The Maroon Bells basin; photo taken at Maroon Lake
 MODERATE HIKE
 Crater Lake trail
 
@@ -375,6 +391,7 @@ Continue beyond Maroon Lake into the basin. Check the current trail report and l
 
 Details ↗ (https://www.aspensnowmass.com/visit/activities/summer/maroon-bells)
 Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Crater%20Lake%20trail%20Aspen)
+AllTrails ↗ (https://www.alltrails.com/trail/us/colorado/crater-lake-trail)
 Eat
 
 Browse the options. On a phone, swipe across each row.
@@ -446,7 +463,6 @@ Stay
 Browse the options. On a phone, swipe across each row.
 
 Mark’s camping favorites
-Gothic Mountain · area context
 MARK’S FAVORITE CAMPING AREA
 Gothic Valley camping
 
@@ -454,7 +470,6 @@ Camp beneath Gothic Mountain, with access to the valley’s trails. Choose a per
 
 Details ↗ (https://gunnisoncrestedbutte.com/visit/trip-planning/camping/)
 Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Gothic%20Valley%20camping%20Crested%20Butte)
-Crested Butte autumn landscape · area context
 MARK’S PICK · HIGH MOUNTAIN SETTING
 Paradise Divide camping
 
@@ -475,7 +490,7 @@ The classic crossing toward Maroon Lake on the Aspen side, with Maroon Bells sce
 
 Details ↗ (https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5186725.pdf)
 Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=West%20Maroon%20Pass%20toward%20Aspen%20Crested%20Butte)
-Gothic Mountain · approach valley context
+AllTrails · one-way crossing ↗ (https://www.alltrails.com/trail/us/colorado/crested-butte-to-aspen-via-west-maroon-pass)
 HARD HIKE · BIG MOUNTAIN VIEWS
 Frigid Air Pass / West Maroon circuit
 
@@ -483,6 +498,7 @@ Another option from the Crested Butte side: explore Frigid Air Pass and combine 
 
 Details ↗ (https://travelcrestedbutte.com/crested-butte-hikes-west-maroon-frigid-air-pass-loop/)
 Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Frigid%20Air%20Pass%20%2F%20West%20Maroon%20circuit%20Crested%20Butte)
+AllTrails · includes Hasley Pass ↗ (https://www.alltrails.com/trail/us/colorado/west-maroon-frigid-air-and-hasley-pass-loop)
 Short walks and scenic drives
 COFFEE · SHOPS · MOUNTAIN TOWN
 Elk Avenue town wander
@@ -499,6 +515,7 @@ Meadows, river scenery and mountain views close to town. Turn around whenever yo
 
 Details ↗ (https://gunnisoncrestedbutte.com/blog/best-trailheads-near-gunnison-and-crested-butte/)
 Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Lower%20Loop%20%2F%20Woods%20Walk%20Crested%20Butte)
+AllTrails ↗ (https://www.alltrails.com/trail/us/colorado/lower-loop-trail)
 Gothic Mountain
 MOUNTAIN SCENERY
 Gothic Valley drive
@@ -523,6 +540,7 @@ A bigger ride in the Kebler Pass area with climbing and technical sections. Chec
 
 Details ↗ (https://gunnisoncrestedbutte.com/blog/crested-butte-mountain-bike-trails/)
 Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Dyke%20Trail%20%2F%20Lake%20Irwin%20loop%20Crested%20Butte)
+AllTrails · Dyke out-and-back alternative ↗ (https://www.alltrails.com/trail/us/colorado/dyke-creek-trail-via-dyke-mountain-bike-trail-838)
 HIGH-COUNTRY MTB DAY
 Trail 401
 
@@ -530,6 +548,7 @@ The classic mountain-scenery ride. Choose it for a settled-weather day; check ac
 
 Details ↗ (https://gunnisoncrestedbutte.com/blog/crested-butte-mountain-bike-trails/)
 Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Trail%20401%20Crested%20Butte)
+AllTrails ↗ (https://www.alltrails.com/trail/us/colorado/trail-401)
 Eat
 
 Browse the options. On a phone, swipe across each row.
@@ -672,12 +691,11 @@ Gondola above Telluride
 Bridal Veil Falls and powerhouse
 Stay
 Places to stay
-Area context: Colorado Avenue · Telluride · Visit Telluride
+Camper trailer under trees at Telluride Town Park Campground
 Town Park Campground
 
 Target nights September 22–23; checkout September 24. Check reservations ↗ (https://www.telluride.gov/181/Campground)
 
-Area context: Colorado Avenue · Telluride · Visit Telluride
 Matterhorn Campground
 
 Alternative for September 22–23. Confirm seasonal operation and availability.
@@ -701,6 +719,7 @@ Walk to the base of the falls. The powerhouse sits above; the onward road is a s
 
 Details ↗ (https://www.telluride.com/activity/bridal-veil-falls-trail/)
 Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Bridal%20Veil%20Falls%20trail%20Telluride)
+AllTrails ↗ (https://www.alltrails.com/trail/us/colorado/bridal-veil-falls-trail--6)
 SHORT, STEEP HIKE
 Jud Wiebe loop
 
@@ -708,6 +727,34 @@ A climb straight from town with views across the valley. Short distance still me
 
 Details ↗ (https://www.telluride.com/activity/jud-wiebe-trail/)
 Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Jud%20Wiebe%20loop%20Telluride)
+AllTrails ↗ (https://www.alltrails.com/trail/us/colorado/jud-wiebe-memorial-trail)
+Long hikes and a summit option
+Lewis Mill above Telluride
+HARD HIKE · HISTORIC MOUNTAIN MILL
+Lewis Mill hike
+
+Climb through Bridal Veil Basin to the old five-story mill, with waterfalls and a high mountain setting. Lewis Lake is an optional extension. Distance depends on where the approach road can be parked; choose an out-and-back to the mill. The AllTrails listing also includes a longer Blue Lake circuit with an off-trail connection.
+
+Details ↗ (https://www.telluride.com/activity/lewis-mine/)
+Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Lewis%20Mill%20hike%20Telluride)
+AllTrails · route options ↗ (https://www.alltrails.com/poi/us/colorado/telluride/lewis-mill)
+Blue Lakes · Mount Sneffels Wilderness
+LAKE HIKE · DRIVE AROUND TOWARD RIDGWAY
+Blue Lakes below Mount Sneffels
+
+Turquoise lakes beneath the Sneffels peaks. Approach via Dallas Creek Road near Ridgway, not directly from Telluride. Turn at Lower Blue Lake or extend to all three lakes. Check the official access update: older AllTrails closure notices may refer to 2025.
+
+Details ↗ (https://sjma.org/blue-lakes/)
+Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Blue%20Lakes%20below%20Mount%20Sneffels%20Telluride)
+AllTrails ↗ (https://www.alltrails.com/trail/us/colorado/lower-middle-and-upper-blue-lakes)
+14ER · CLASS 3 SCRAMBLING
+Mount Sneffels summit via Yankee Boy Basin
+
+A separate mountaineering day via Ridgway, Ouray and the rough Yankee Boy Basin road. Loose rock, exposed scrambling and route-finding; helmet and dry, settled conditions. The parking point changes the length substantially. Choose this only if both want a summit climb.
+
+Details ↗ (https://www.alltrails.com/trail/us/colorado/mount-sneffels-classic-route-yankee-boy-basin)
+Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Mount%20Sneffels%20summit%20via%20Yankee%20Boy%20Basin%20Telluride)
+AllTrails ↗ (https://www.alltrails.com/trail/us/colorado/mount-sneffels-classic-route-yankee-boy-basin)
 A bigger day
 EXPOSED CLIMBING TRAVERSE
 Telluride via ferrata
@@ -716,6 +763,7 @@ An optional adventure on the canyon wall. Proper via-ferrata equipment and compe
 
 Details ↗ (https://www.telluride.com/activity/telluride-via-ferrata/)
 Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Telluride%20via%20ferrata%20Telluride)
+AllTrails ↗ (https://www.alltrails.com/trail/us/colorado/telluride-via-ferrata)
 Eat
 
 Browse the options. On a phone, swipe across each row.
@@ -796,22 +844,57 @@ Arches National Park
 Corona Arch
 Mountain biking on Slickrock
 Stay
-Places to stay
-Area context: Mountain biking on Slickrock
+
+Browse the options. On a phone, swipe across each row.
+
+Colorado River campgrounds · choose on arrival
+Goose Island Campground · Colorado River
+UT-128 · CLOSEST RIVER OPTION TO TOWN
+Goose Island Campground
+
+River-edge camping, shade trees and canyon walls close to Moab. A convenient base for town and the paved river bike path. Individual sites are first-come, first-served; bring drinking water.
+
+Details ↗ (https://www.blm.gov/visit/goose-island-campground)
+Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Goose%20Island%20Campground%20Corona%20Arch)
+Drinks Canyon Campground
+UT-128 · SMALL RIVERSIDE CAMPING AREAS
+Drinks Canyon Campground
+
+Three small camping areas along the river, including walk-in sites. Picnic tables, toilets and canyon scenery; no drinking water or hookups. Individual sites are first-come, first-served.
+
+Details ↗ (https://www.recreation.gov/gateways/2147)
+Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Drinks%20Canyon%20Campground%20Corona%20Arch)
+Big Bend Campground · Moab
+UT-128 · BEACH AND RED-ROCK WALLS
+Big Bend Campground
+
+A scenic river bend with a sandy beach and nearby bouldering. Individual sites are first-come, first-served; group reservations are a separate option. Bring drinking water.
+
+Details ↗ (https://www.blm.gov/visit/big-bend-recreation-site)
+Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Big%20Bend%20Campground%20Corona%20Arch)
+PARTIAL CLOSURE · CHECK BEFORE RELYING ON IT
+Grandstaff Campground
+
+BLM lists part of the campground closed March 9–October 31, 2026 for river-trail construction. Keep it as a conditional option and check the notice; prioritize the other river campgrounds.
+
+Details ↗ (https://www.blm.gov/announcement/blm-issues-temporary-closure-grandstaff-campground)
+Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Grandstaff%20Campground%20Corona%20Arch)
+Slickrock base or indoor fallback
+Sand Flats Recreation Area campsite
+BESIDE THE SLICKROCK RIDING AREA
 Sand Flats Recreation Area campgrounds
 
-The camping area beside the Slickrock riding zone. Individual sites are first-come, first-served; bring drinking water. Vault toilets, no campground showers. Arrive earlier if this is the preferred base.
+Camp among sandstone formations close to the riding. Individual sites are first-come, first-served; bring water. Vault toilets, no campground showers.
 
-Campground details ↗ (https://grandcountyutah.net/289/Camping)
-·
-Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Sand+Flats+Recreation+Area+campground+Moab)
-Area context: Arches National Park
-BLM campgrounds, Potash Rd / Hwy 128
-Dry-weather choice · first-come riverside sites
-+ Canyon scenery beside camp− Basic facilities; choose a site on arrival
-Area context: Arches National Park
-Budget motel, Moab
-Rain fallback · many on Main St
+Details ↗ (https://grandcountyutah.net/289/Camping)
+Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Sand%20Flats%20Recreation%20Area%20campgrounds%20Corona%20Arch)
+RAIN FALLBACK · CHOOSE A PROPERTY ON THE DAY
+Moab motel deal
+
+Look for a room within the shared $120–140 target. This is a lodging search, not a specific hotel recommendation.
+
+Details ↗ (https://www.google.com/maps/search/Moab+motels/)
+Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Moab%20motel%20deal%20Corona%20Arch)
 Do
 
 Browse the options. On a phone, swipe across each row.
@@ -832,6 +915,7 @@ The arch walk off Potash Road: open sandstone, a railway crossing and a big free
 
 Details ↗ (https://www.blm.gov/visit/corona-arch-trail)
 Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Corona%20Arch%20trail%20Corona%20Arch)
+AllTrails ↗ (https://www.alltrails.com/trail/us/utah/corona-and-bowtie-arch-trail)
 VIEWPOINT · SUNSET OPTION
 Dead Horse Point
 
@@ -847,6 +931,7 @@ Real dinosaur tracks and exposed fossil bones north of town. A different kind of
 
 Details ↗ (https://www.blm.gov/visit/mill-canyon-dinosaur-trailhead-interpretive-site)
 Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Mill%20Canyon%20dinosaur%20sites%20Corona%20Arch)
+AllTrails · fossil-bone trail ↗ (https://www.alltrails.com/trail/us/utah/mill-canyon-dinosaur-trail)
 Mountain biking · choose the effort
 TECHNICAL MTB · SAND FLATS
 Slickrock Trail
@@ -855,6 +940,7 @@ Try the practice loop before committing to the main route. Grippy sandstone, rep
 
 Details ↗ (https://www.discovermoab.com/attractions/mountainbiking/mountain-biking-trail-maps/)
 Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Slickrock%20Trail%20Corona%20Arch)
+AllTrails ↗ (https://www.alltrails.com/trail/us/utah/slickrock-mountain-bike-trail)
 INTERMEDIATE–DIFFICULT MTB
 Raptor Route shuttle
 
@@ -862,6 +948,7 @@ A downhill-oriented trail chain. Arrange a shuttle or choose a shorter section; 
 
 Details ↗ (https://www.hazardcountyshuttle.com/mtb-shuttles/raptor-route/)
 Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Raptor%20Route%20shuttle%20Corona%20Arch)
+AllTrails ↗ (https://www.alltrails.com/trail/us/utah/raptor-route)
 EASIER MTB OPTIONS
 Moab Brands / Bar M
 
@@ -869,6 +956,7 @@ A flexible trail network. Start with Rusty Spur or a shorter Bar M option and ad
 
 Details ↗ (https://www.discovermoab.com/attractions/mountainbiking/)
 Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Moab%20Brands%20%2F%20Bar%20M%20Corona%20Arch)
+AllTrails · Bar M loop ↗ (https://www.alltrails.com/trail/us/utah/bar-m-loop-trail)
 INTERMEDIATE MTB
 Navajo Rocks
 
@@ -876,6 +964,7 @@ Rolling sandstone and desert singletrack. Choose a section rather than committin
 
 Details ↗ (https://www.discovermoab.com/attractions/mountainbiking/)
 Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Navajo%20Rocks%20Corona%20Arch)
+AllTrails · full loop ↗ (https://www.alltrails.com/trail/us/utah/navajo-rocks-loop)
 EXPERT MTB · EXPOSED TECHNICAL SECTIONS
 Captain Ahab
 
@@ -883,6 +972,7 @@ A demanding ride with ledges, climbing and exposure. Keep it for a day when both
 
 Details ↗ (https://www.discovermoab.com/trail/captain-ahab/682dec7b7e17296df3b99600/)
 Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Captain%20Ahab%20Corona%20Arch)
+AllTrails ↗ (https://www.alltrails.com/trail/us/utah/captain-ahab-trail)
 BIG SHUTTLE DAY · ADVANCED RIDING
 Whole Enchilada / Porcupine Rim
 
@@ -890,6 +980,7 @@ The famous long descent, with demanding terrain and pedaling. The highest availa
 
 Details ↗ (https://wholeenchiladashuttles.com/shuttle-info-and-rates/)
 Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Whole%20Enchilada%20%2F%20Porcupine%20Rim%20Corona%20Arch)
+AllTrails · full Whole Enchilada ↗ (https://www.alltrails.com/trail/us/utah/the-whole-enchilada)
 Let someone else handle the logistics
 PAID PASSENGER TRIP · HELL’S REVENGE
 Dan Mick’s guided Jeep tour
