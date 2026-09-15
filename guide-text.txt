@@ -59,8 +59,63 @@ Directions ↗ (https://www.google.com/maps/dir/?api=1&origin=Torrey%20%2F%20Cap
 
 Road estimates checked September 15, 2026. These are planning ranges, not live traffic predictions.
 
-A flexible shortlist. Start around Breckenridge, Frisco, Silverthorne and Dillon Reservoir. Camp when the weather suits; use a hostel or a good lodging deal otherwise. Las Vegas is the final night, October 2–3. Short hikes, sightseeing and food are the default; longer hikes and rides stay optional.
+A flexible shortlist. Start around Breckenridge, Frisco, Silverthorne and Dillon Reservoir. Camp when the weather suits; use a hostel or a good lodging deal otherwise. Las Vegas is the final night, October 2–3, anchored by the NHL game on October 2. Arrive October 1 only if choosing an extra evening for Cirque. Short hikes, sightseeing and food are the default; longer hikes and rides stay optional.
+Las Vegas: hockey first, Cirque optional
+FRIDAY OCTOBER 2 · 7 P.M. PACIFIC
+Golden Knights vs Anaheim Ducks
+
+NHL preseason at T-Mobile Arena. Aim to arrive in Las Vegas by mid-afternoon, check in and leave time to reach the arena. Tickets are not booked.
+
+Arena schedule and tickets ↗ (https://www.t-mobilearena.com/events/all)
+OPTIONAL · THURSDAY OCTOBER 1
+Cirque du Soleil
+
+If a show appeals, use the flexible October 1 night for an earlier Vegas arrival. Check a specific performance before changing lodging. Do not squeeze a show around the hockey game.
+
+O at Bellagio: dates and tickets ↗ (https://www.cirquedusoleil.com/o/buy-tickets)
+
+Game date and time checked against the arena schedule September 15, 2026. October 3 is the departure day, not another Vegas night.
+
 Tentative dates · September 19–October 3
+Sat
+Sep 19
+Weekend
+Sun
+Sep 20
+Weekend
+Mon
+Sep 21
+Tue
+Sep 22
+Wed
+Sep 23
+Thu
+Sep 24
+Fri
+Sep 25
+Weekend
+Sat
+Sep 26
+Weekend
+Sun
+Sep 27
+Weekend
+Mon
+Sep 28
+Tue
+Sep 29
+Wed
+Sep 30
+Thu
+Oct 1
+Fri
+Oct 2
+Weekend
+Sat
+Oct 3
+Weekend
+
+Friday–Sunday: prioritize event tickets and overnight plans; towns may be livelier and lodging busier. Weekdays stay flexible, but seasonal closures and popular park reservations still apply.
 
 A working schedule for checking reservations, not a locked itinerary. Nights below mean the dates spent sleeping at each stop; checkout is the next morning.
 
@@ -68,9 +123,10 @@ Sep 19 · 1 nightBreckenridge/Frisco area; optional farther-west first night
 Sep 20–21 · Aspen OR Crested Butte; both splits the two nightsColorado choice · leave for Telluride Sep 22
 Sep 22–23 · 2 nightsTelluride · leave Sep 24
 Sep 24–26 · 3 nightsMoab · leave Sep 27
-Sep 27–28 · 2 nightsMonument Valley / Page; Antelope Canyon Sep 28
-Sep 29–Oct 1 · 3 nightsZion area · leave Oct 2
-Oct 2 · 1 nightLas Vegas · Oct 3 flight at 19:20
+Sep 27–28 · route choiceSep 27: Monument Valley en route, one Page overnight. Sep 28: Antelope tour, then Bryce overnight or continue to Zion
+Sep 29–30 · 2 nightsZion base; arrive Sep 28 if skipping Bryce
+Oct 1 · flexible nightExtra park time, or early Vegas arrival for optional Cirque. Keep this night uncommitted
+Fri Oct 2 · Vegas nightGolden Knights vs Anaheim, 7 p.m. · Oct 3 flight at 19:20
 Reservations to check first
 Difficult Campground, Aspen
 
@@ -90,7 +146,7 @@ Matterhorn Campground (https://www.recreation.gov/camping/campgrounds/233902) is
 
 Antelope Canyon guided tour
 
-Tentative September 28, ideally after sleeping in the Page area September 27. Southern route only; September 29 is a backup that reduces Zion time.
+Tentative September 28, ideally after sleeping in the Page area September 27. One Page overnight is the default. Continue after the tour; a second night is optional, not required.
 
 Reserve a specific guided-tour slot after choosing the southern route. Follow the operator’s stated local time and check-in instructions. Authorized tour operators ↗ (https://navajonationparks.org/guided-tour-operators/antelope-canyon-tour-operators./)
 
@@ -110,30 +166,37 @@ Breckenridge · Frisco · Silverthorne · Dillon Reservoir
 Head straight here from the airport. Choose a town walk and dinner in Breckenridge or Frisco, or a lakeside camp at Dillon Reservoir. The first night can move farther west if arrival, weather and energy line up.
 
 Frisco Main Street
-Breckenridge Main Street
+Breckenridge Arts District · summer flowers
 Stay
+Places to stay
+Area context: Frisco Main Street
 Peak One Campground
 Campground · Frisco Peninsula · good-weather option
 
 A practical tent stop on the Frisco Peninsula, with recreation paths toward town and around the reservoir.
 
 + Reservoir setting and access to Frisco− Outdoor night; choose the hostel if the weather is poor
+Area context: Frisco Main Street
 The Bivvi Hostel, Breckenridge
 First indoor choice · Rooms and bunks ↗ (https://www.thebivvi.com/rooms/all)
 
 A hostel base for Breckenridge, with shared and private room options. Check the price for two before choosing.
 
 + Hostel atmosphere and town access− Price and availability still to check
+Area context: Frisco Main Street
 Other first-night options
 
 A good deal at Copper Mountain could work. If it is still early and everyone feels good, continue toward Leadville or Twin Lakes instead of making Summit County mandatory.
 
 Do
+Things to do
+Area context: Frisco Main Street
 Dillon Reservoir rec path
 Easy · walk or rent bikes
 
 Flat lakeside miles with Tenmile Range backdrops · a gentle first day at altitude.
 
+Area context: Frisco Main Street
 Mount Royal trail
 Moderate · 2–3 h from town
 
@@ -200,17 +263,21 @@ Leadville / Twin Lakes
 Passing stop: September 20; September 19 if continuing after pickup
 
 Silver Dollar Saloon · Harrison Avenue
-Leadville and the surrounding mountains
+Harrison Avenue · colorful historic storefronts
 Historic mining town · lakeside camping option
 
 Harrison Avenue and the Silver Dollar Saloon make a good passing stop. Continue west afterward; Twin Lakes camping is an option if it’s getting late.
 
 Stay
+Places to stay
+Area context: Silver Dollar Saloon · Harrison Avenue
 Keep going, unless it is late
 
 Leadville lodging or Twin Lakes camping can be a first-night extension or a later stop. Otherwise continue to the selected Colorado destination.
 
 Do
+Things to do
+Area context: Silver Dollar Saloon · Harrison Avenue
 Leadville town walk
 
 A short look around the historic center before continuing toward Aspen or the Gunnison Valley.
@@ -266,12 +333,15 @@ Mountain town · nearby scenic lake and trails
 
 Late September can bring golden leaves beneath the two maroon peaks. Check the current shuttle and parking reservation options.
 
-Aspen downtown · summer
-The Maroon Bells over Maroon Lake
+Aspen pedestrian mall · Aspen Snowmass
+Maroon Bells over Maroon Lake
 Stay
+Places to stay
+Area context: Aspen pedestrian mall · Aspen Snowmass
 USFS campgrounds, Maroon Creek Rd
 Dry-weather choice · check details before travel
 + Wake up already at the trailhead side of town− High, cold, limited sites
+Area context: Aspen pedestrian mall · Aspen Snowmass
 Budget lodging, Basalt/Carbondale
 Rain fallback · 25–40 min down-valley
 + Far cheaper than Aspen itself− Adds driving
@@ -366,22 +436,53 @@ Tentative nights: September 20–21 · checkout September 22
 
 Historic town · false-front streets, big meadows
 
-Elk Avenue, mountain views and a beer after a short walk. Add Gothic Valley, a fall-color drive or a ride when there’s energy for more.
+Mark’s favorite area for camping: Gothic Valley and Paradise Divide. Colorful Elk Avenue, mountain views and the Talk of the Town bar round out the stop. Choose a short walk or a full alpine hiking day.
 
 Elk Avenue · Crested Butte
 Gothic Mountain
 Autumn colors near Crested Butte
 Stay
-Crested Butte area camping (site to choose)
-Dry-weather choice · up Kebler Pass Rd
-+ Mountain setting− Site and seasonal access still to choose
-Budget lodge in town
-Rain fallback
-+ Elk Ave on foot− Shoulder-season closures; check ahead
+
+Browse the options. On a phone, swipe across each row.
+
+Mark’s camping favorites
+Gothic Mountain · area context
+MARK’S FAVORITE CAMPING AREA
+Gothic Valley camping
+
+Camp beneath Gothic Mountain, with access to the valley’s trails. Choose a permitted campsite and check current local camping rules.
+
+Details ↗ (https://gunnisoncrestedbutte.com/visit/trip-planning/camping/)
+Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Gothic%20Valley%20camping%20Crested%20Butte)
+Crested Butte autumn landscape · area context
+MARK’S PICK · HIGH MOUNTAIN SETTING
+Paradise Divide camping
+
+A treat for the mountain views. An optional overnight when road access and weather cooperate; confirm a legal site before settling in.
+
+Details ↗ (https://gunnisoncrestedbutte.com/visit/trip-planning/camping/)
+Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Paradise%20Divide%20camping%20Crested%20Butte)
 Do
 
 Browse the options. On a phone, swipe across each row.
 
+A full alpine hiking day
+Maroon Bells from Maroon Lake · Aspen side
+LONG MOUNTAIN HIKE · RETURN LOGISTICS
+West Maroon Pass toward Aspen
+
+The classic crossing toward Maroon Lake on the Aspen side, with Maroon Bells scenery. Go to the pass and back for a shorter commitment; reaching the Aspen side and hiking back is a very long day, or a two-day outing with an overnight and transport arranged.
+
+Details ↗ (https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5186725.pdf)
+Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=West%20Maroon%20Pass%20toward%20Aspen%20Crested%20Butte)
+Gothic Mountain · approach valley context
+HARD HIKE · BIG MOUNTAIN VIEWS
+Frigid Air Pass / West Maroon circuit
+
+Another option from the Crested Butte side: explore Frigid Air Pass and combine with West Maroon for a demanding circuit. Pick the exact route and turnaround before setting out; this is separate from going all the way to Aspen.
+
+Details ↗ (https://travelcrestedbutte.com/crested-butte-hikes-west-maroon-frigid-air-pass-loop/)
+Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Frigid%20Air%20Pass%20%2F%20West%20Maroon%20circuit%20Crested%20Butte)
 Short walks and scenic drives
 COFFEE · SHOPS · MOUNTAIN TOWN
 Elk Avenue town wander
@@ -471,6 +572,13 @@ Daily 4–6pm officially listed; specific beer discount not published in retriev
 
 Details ↗ (https://www.highalpinebrewing.com/)
 Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=High%20Alpine%20Brewing%20Company%20Gunnison)
+BREWERY / TAVERN
+Talk of the Town
+
+Mark’s favorite bar in Crested Butte. A casual Elk Avenue stop for beers after a day in the mountains.
+
+Details ↗ (https://visitcrestedbutte.com/businesspage.cfm?businessid=841)
+Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Talk+of+the+Town+Crested+Butte)
 Events
 
 Nearby calendar options, not confirmed stops. Compare dates with the itinerary before changing reservations.
@@ -559,14 +667,17 @@ Mountain town · box-canyon views · optional via ferrata
 
 A town tucked into a steep box canyon. Ride the gondola, walk to waterfalls, or make a bigger day of the via ferrata.
 
-Colorado Avenue · Telluride
+Colorado Avenue · Telluride · Visit Telluride
 Gondola above Telluride
 Bridal Veil Falls and powerhouse
 Stay
+Places to stay
+Area context: Colorado Avenue · Telluride · Visit Telluride
 Town Park Campground
 
 Target nights September 22–23; checkout September 24. Check reservations ↗ (https://www.telluride.gov/181/Campground)
 
+Area context: Colorado Avenue · Telluride · Visit Telluride
 Matterhorn Campground
 
 Alternative for September 22–23. Confirm seasonal operation and availability.
@@ -685,14 +796,20 @@ Arches National Park
 Corona Arch
 Mountain biking on Slickrock
 Stay
+Places to stay
+Area context: Mountain biking on Slickrock
 Sand Flats Recreation Area campgrounds
 
 The camping area beside the Slickrock riding zone. Individual sites are first-come, first-served; bring drinking water. Vault toilets, no campground showers. Arrive earlier if this is the preferred base.
 
-Campground details ↗ (https://grandcountyutah.net/289/Camping) · Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Sand+Flats+Recreation+Area+campground+Moab)
+Campground details ↗ (https://grandcountyutah.net/289/Camping)
+·
+Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Sand+Flats+Recreation+Area+campground+Moab)
+Area context: Arches National Park
 BLM campgrounds, Potash Rd / Hwy 128
 Dry-weather choice · first-come riverside sites
 + Canyon scenery beside camp− Basic facilities; choose a site on arrival
+Area context: Arches National Park
 Budget motel, Moab
 Rain fallback · many on Main St
 Do
@@ -937,9 +1054,9 @@ Would mean a late Moab stay
 
 Organizer ↗ (https://www.moabbackyardtheater.com/schedule.html)
 Google Maps ↗ (https://www.google.com/maps/search/?api=1&query=Backyard%20Theater%20bluegrass%20Moab)
-A fork in the road: two ways to Zion
+Two route options from Moab to Zion
 
-From Moab, both branches end in Zion Canyon before the last run to Las Vegas (2–3 Oct). Choose the scenery and stops that appeal most.
+Choose one main route between Moab and Zion. The northern route follows Capitol Reef, Escalante and Bryce; the southern route visits Monument Valley and Page. Combining both complete routes adds substantial driving and needs more days. Bryce alone can still be added to the southern route, as shown below.
 
 North · scenic roads and varied stops
 
@@ -1053,6 +1170,6 @@ Use the guide in your group chat
 
 Pin the guide link in WhatsApp. Try @Meta AI with a question; if it cannot read the page, paste the trip brief below. A ChatGPT group chat can also use the text or uploaded file.
 
-· Open trip brief · Guide for AI assistants
+· Open trip brief · Full guide as text
 
 Chat answers do not edit this website. Keep a short “decisions so far” message in the group and refresh the brief after major changes.
