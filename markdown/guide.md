@@ -64,23 +64,7 @@ Directions ↗ (https://www.google.com/maps/dir/?api=1&origin=Torrey%20%2F%20Cap
 Road estimates checked September 15, 2026. These are planning ranges, not live traffic predictions.
 
 A flexible shortlist. Start around Breckenridge, Frisco, Silverthorne and Dillon Reservoir. Camp when the weather suits; use a hostel or a good lodging deal otherwise. Las Vegas is the final night, October 2–3, anchored by the NHL game on October 2. Arrive October 1 only if choosing an extra evening for Cirque. Short hikes, sightseeing and food are the default; longer hikes and rides stay optional.
-Las Vegas: hockey first, Cirque optional
-FRIDAY OCTOBER 2 · 7 P.M. PACIFIC
-Golden Knights vs Anaheim Ducks
-
-NHL preseason at T-Mobile Arena. Aim to arrive in Las Vegas by mid-afternoon, check in and leave time to reach the arena. Tickets are not booked.
-
-Arena schedule and tickets ↗ (https://www.t-mobilearena.com/events/all)
-OPTIONAL · THURSDAY OCTOBER 1
-Cirque du Soleil
-
-If a show appeals, use the flexible October 1 night for an earlier Vegas arrival. Check a specific performance before changing lodging. Do not squeeze a show around the hockey game.
-
-O at Bellagio: dates and tickets ↗ (https://www.cirquedusoleil.com/o/buy-tickets)
-
-Game date and time checked against the arena schedule September 15, 2026. October 3 is the departure day, not another Vegas night.
-
-Tentative dates · September 19–October 3
+Nights along the way · September 19–October 3
 Sat
 Sep 19
 Weekend
@@ -1269,6 +1253,30 @@ Pin the guide link in WhatsApp. Try @Meta AI with a question; if it cannot read 
 
 Chat answers do not edit this website. Keep a short “decisions so far” message in the group and refresh the brief after major changes.
 
+
+
+## Las Vegas · final stop
+
+Las Vegas: hockey first, Cirque optional
+FRIDAY OCTOBER 2 · 7 P.M. PACIFIC
+Golden Knights vs Anaheim Ducks
+
+NHL preseason at T-Mobile Arena. Aim to arrive in Las Vegas by mid-afternoon, check in and leave time to reach the arena. Tickets are not booked.
+
+Arena schedule and tickets ↗ (https://www.t-mobilearena.com/events/all)
+OPTIONAL · THURSDAY OCTOBER 1
+Cirque du Soleil
+
+If a show appeals, use the flexible October 1 night for an earlier Vegas arrival. Check a specific performance before changing lodging. Do not squeeze a show around the hockey game.
+
+O at Bellagio: dates and tickets ↗ (https://www.cirquedusoleil.com/o/buy-tickets)
+
+Game date and time checked against the arena schedule September 15, 2026. October 3 is the departure day, not another Vegas night.
+
+
+Hofbräuhaus Oktoberfest: September 11–October 31. October 2 celebrity event 6–11 p.m. overlaps the 7 p.m. hockey game. October 1 is an optional earlier-arrival alternative. October 3 evening does not fit the flight. [Official calendar](https://www.hofbrauhauslasvegas.com/events/month/2026-10/).
+
+Moab: no date-confirmed Oktoberfest found in checked sources. Red Rock Arts street festival September 26 includes a beer garden. [Organizer](https://www.redrockartsfestival.com/streetfest).
 ## Google Maps ratings
 
 Observed September 15, 2026. Ratings can change; counts and listing scope are included. Unlisted items have no verified Google score.
