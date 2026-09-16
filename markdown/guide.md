@@ -75,7 +75,7 @@ Sep 22–23 · 2 nightsTelluride · leave Sep 24
 Sep 24–26 · 3 nightsMoab · leave Sep 27
 Sep 27–28 · route choiceSep 27: Monument Valley en route, one Page overnight. Sep 28: Antelope tour, then Bryce overnight or continue to Zion
 Sep 29–30 · 2 nightsZion base; arrive Sep 28 if skipping Bryce
-Oct 1 · flexible nightExtra park time, or early Vegas arrival for optional Cirque. Keep this night uncommitted
+Oct 1 · flexible nightExtra park time, or early Vegas arrival for optional Cirque du Soleil. Keep this night uncommitted
 Fri Oct 2 · Vegas nightGolden Knights vs Anaheim, 7 p.m. · Oct 3 flight at 19:20
 Reservations to check first
 Difficult Campground, Aspen
@@ -1219,7 +1219,7 @@ Chat answers do not edit this website. Keep a short “decisions so far” messa
 
 ## Las Vegas · final stop
 
-Las Vegas: hockey first, Cirque optional
+Las Vegas: hockey first, Cirque du Soleil optional
 FRIDAY OCTOBER 2 · 7 P.M. PACIFIC
 Golden Knights vs Anaheim Ducks
 
@@ -1299,3 +1299,15 @@ Observed September 15, 2026. Ratings can change; counts and listing scope are in
 | [Peak One Campground](https://www.google.com/maps/search/Peak%20One%20Campground%20Frisco) | 4.3/5 | 344 | Peninsula Road listing |
 | [Maroon Lake Scenic Loop](https://www.google.com/maps/search/Maroon%20Lake%20Colorado) | 4.8/5 | 168 | Lake rating |
 | [Trail 401](https://www.google.com/maps/search/401%20Trail%20Crested%20Butte) | 4.8/5 | 55 |  |
+
+
+## Page camping, football and Las Vegas choices — checked September 15, 2026
+
+- Utah route choice: Monument Valley → Page / Antelope Canyon OR Capitol Reef → Escalante → Bryce. Both end at Zion. Bryce alone can be added to the southern route.
+- Page, September 27 night: Lone Rock Beach primitive camping offers beach access and lake views, no numbered sites or reservations. $14/vehicle/night plus park admission. Paid primitive camping, not free dispersed land. Soft sand and changing lake levels affect access; bring drinking water. [NPS camping details](https://www.nps.gov/glca/planyourvisit/lone-rock-beach.htm).
+- Moab, Friday September 25 at 7 p.m.: Grand County High School vs Whitehorse, homecoming football. School calendar confirms 608 South 400 East, Moab. Ticket prices and attendance not published. [School calendar](https://gchs.grandschools.org/apps/events/).
+- Las Vegas, Thursday October 1: “O” by Cirque du Soleil at Bellagio, live booking calendar shows 6:30 p.m. from $135 or 9 p.m. from $145 including service fee, before tax. Prices can change. [Official booking](https://bellagio.mgmresorts.com/redirect/show-name/o-by-cirque-du-soleil).
+- Alternative: Mad Apple by Cirque du Soleil, New York–New York. Published 2026 Thursday schedule is 7 and 9:30 p.m.; exact October 1 inventory not verified. KÀ and Mystère normally dark Thursdays. [Tickets](https://www.cirquedusoleil.com/mad-apple/buy-tickets).
+- October 2 evening remains Golden Knights vs Anaheim, 7 p.m., preseason.
+- Optional early-arrival activities: [Stadium Swim](https://www.circalasvegas.com/event/EVE53555600020261001/pro-football-at-stadium-swim/) has an October 1 pro-football pool event; [Able Baker downtown brewery](https://www.ablebakerbrewing.com/downtown-brewery) has 30+ taps, covered patio and Arts District Kitchen; [The Range 702](https://www.therange702.com/shooting-experiences/) offers supervised beginner sessions, One and Done advertised from $79.95, ID required and no alcohol beforehand; [Boulder Beach at Lake Mead](https://www.nps.gov/lake/planyourvisit/swimming-beaches.htm) is an optional natural lake swim near Hoover Dam, with rocky shore and no lifeguards. Check access and water advisories.
+- Saturday October 3: UNLV vs California at Allegiant Stadium, 12:30 p.m. Pacific. A tight departure-day option with the 19:20 international flight: leave early, aim for airport about16:20 and separately allow for bags and transport. Moab football fits more easily. [Official game listing](https://www.allegiantstadium.com/events/detail/unlv-rebels-vs-cal-2026), [UNLV kickoff announcement](https://unlvrebels.com/news/2026/5/27/football-unlv-to-kick-off-season-on-fox-as-part-of-at-least-11-national-tv-appearances.aspx).
